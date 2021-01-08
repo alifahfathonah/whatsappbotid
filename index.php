@@ -47,7 +47,7 @@
 
     <div style="width: 100vw">
         <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top" style="background-color:#1EBEA5">
-            <a class="navbar-brand logo-image" href="/"><img src="asset/images/Icon.png" alt="alternative"></a>
+            <a class="navbar-brand logo-image" href="/"><img src="asset/images/Icon.png" alt="whatsappbotid_logo" style="height:50px;width:auto"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-awesome fas fa-bars"></span>
                 <span class="navbar-toggler-awesome fas fa-times"></span>
