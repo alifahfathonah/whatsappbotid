@@ -105,8 +105,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <hr style="height: 8px; background: #ffffff; width: 100px; border-radius: 10px">
-                            <h1 class="">WhatsApp Bot dapat mengurangi Beban Layanan Pelanggan secara Signifikan</h1>
+                            <hr style="height: 8px; background: #ffffff; width: 100px; border-radius: 10px;">
+                            <h1 style="font-size:48px;font-weight: 700">WhatsApp Bot dapat mengurangi Beban Layanan Pelanggan secara Signifikan</h1>
                             <br>
                             <p class="px-5">
                                 Sebelum diteruskan kepada Operator, setiap pesan yang masuk akan ditangani oleh WhatsApp Bot. Dan apabila ada pertanyaan yang belum dapat dijawab oleh WhatsApp Bot, pesan akan diteruskan kepada Operatos.
