@@ -1889,7 +1889,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header {
-		background: url('../images/bg.png') center center no-repeat;
+		background: url('../images/Frame 6.png') center center no-repeat;
 		background-size: cover; 
 	}
 
@@ -2232,31 +2232,31 @@ a:hover.back-to-top {
 /* Custom */
 
 .bg-layanan {
-    background: url('../img/main/Layanan.png') no-repeat;
+    background: url('../images/Group 9 (2).png') no-repeat;
     background-size: cover;
     background-position: top center;
 }
 
 .bg-diag-left{
-    background: url('../img/main/Group 158.png') no-repeat;
+    background: url('../img/main/Group 158 (1).png') no-repeat;
     background-size: 100px;
     background-position: left bottom;
 }
 
 .bg-diag-left-top {
-	background: url('../img/main/Group 158.png') no-repeat;
+	background: url('../img/main/Group 158 (1).png') no-repeat;
     background-size: 100px;
     background-position: left top;
 }
 
 .bg-diag-right {
-    background: url('../img/main/Group 159.png') no-repeat;
+    background: url('../img/main/Group 246.png') no-repeat;
     background-size: 100px;
     background-position: right bottom;
 }
 
 .bg-diag-right-top {
-    background: url('../img/main/Group 159.png') no-repeat;
+    background: url('../img/main/Group 246.png') no-repeat;
     background-size: 100px;
     background-position: right top;
 }
@@ -2307,16 +2307,16 @@ a:hover{
     font-weight: 500;
     font-size: 12px;
     line-height: 14px;
-    background-color: #FA6C09;
+    background-color: #01E675;
     color: #ffffff;
-    padding: 35px;
+    padding: 25px 35px;
 	border-radius: 10px;
-	font-size: 26px;
+	font-size: 20px;
 }
 
 .btn-homepage-o:hover{
 	background-color: #FFF;
-	color: #FA6C09;
+	color: #01E675;
 	/* color: #bbb; */
 }
 
@@ -2325,16 +2325,16 @@ a:hover{
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    background-color: #FA6C09;
+    background-color: #01E675;
     color: #ffffff;
     padding: 0.375rem 0.75rem;
 	border-radius: 0.25rem;
-	border: 1px solid #FA6C09;
+	border: 1px solid #01E675;
 	/* font-size: 26px; */
 }
 
 .btn-orange:hover {
-	color: #FA6C09;
+	color: #01E675;
     background-color: #ffffff;
 }
 
@@ -2371,3 +2371,16 @@ a:hover{
 }
 
 /* Custom */
+
+.border-lr{
+	border-right:1px solid #dee2e6;
+	border-left: 1px solid #dee2e6;
+}
+
+.border-b{
+	border-bottom:1px solid #dee2e6;
+}
+
+.border-r{
+	border-right:1px solid #dee2e6;
+}
