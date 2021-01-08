@@ -20,19 +20,19 @@
 
     <meta http-equiv="Cache-control" content="no-cache">
 
-    <title>WhatsApp Bot Creator</title>
+    <title>WhatsApp Bot Creator | Registrasi</title>
 
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,600,700,700i&amp;subset=latin-ext" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://kit-pro.fontawesome.com/releases/v5.15.1/css/pro.min.css">
-    <link href="asset/css/magnific-popup.css" rel="stylesheet">
-    <link href="asset/css/bootstrap.css" rel="stylesheet">
-    <link href="asset/css/fontawesome-all.css" rel="stylesheet">
-    <link href="asset/css/swiper.css" rel="stylesheet">
+    <link href="https://whatsappbot.id/asset/css/magnific-popup.css" rel="stylesheet">
+    <link href="https://whatsappbot.id/asset/css/bootstrap.css" rel="stylesheet">
+    <link href="https://whatsappbot.id/asset/css/fontawesome-all.css" rel="stylesheet">
+    <link href="https://whatsappbot.id/asset/css/swiper.css" rel="stylesheet">
 
-    <link href="asset/css/styles.css" rel="stylesheet">
+    <link href="https://whatsappbot.id/asset/css/styles.css" rel="stylesheet">
 
-    <link rel="icon" href="asset/img/main/LogoOnly.png">
+    <link rel="icon" href="https://whatsappbot.id/asset/img/main/LogoOnly.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
 
@@ -45,8 +45,8 @@
     </div>
 
     <div style="width: 100vw">
-        <div class="vw-100 vh-100" style="position: absolute; top:0;left:0;background: url(asset/img/main/BG-Full-Top.png) no-repeat; background-size: cover; background-position: top center"></div>
-        <div class="vw-100 vh-100" style="position: absolute; top:0;left:0;background: url(asset/img/main/BG_RegLog_bottom.png) no-repeat; background-size: contain; background-position: bottom left"></div>
+        <div class="vw-100 vh-100" style="position: absolute; top:0;left:0;background: url(https://whatsappbot.id/asset/img/main/BG-Full-Top.png) no-repeat; background-size: cover; background-position: top center"></div>
+        <div class="vw-100 vh-100" style="position: absolute; top:0;left:0;background: url(https://whatsappbot.id/asset/img/main/BG_RegLog_bottom.png) no-repeat; background-size: contain; background-position: bottom left"></div>
 
         <div class="container h-100" style="min-width: 100vw; min-height:100vh;">
             <div style="position: absolute;top: 3rem; right: 3rem; width: auto" class="hidden-md-down">
@@ -113,7 +113,7 @@
                                 </a>
                             </div>
                             <div class="form-group text-center">
-                                <a href="https://whatsappbot.id">
+                                <a href="https://whatsappbot.id/">
                                     Ke Halaman Utama
                                 </a>
                             </div>
@@ -125,12 +125,12 @@
         </div>
     </div>
 
-    <script src="asset/js/jquery.min.js"></script>
-    <script src="asset/js/popper.min.js"></script>
-    <script src="asset/js/bootstrap.min.js"></script>
-    <script src="asset/js/jquery.easing.min.js"></script>
-    <script src="asset/js/swiper.min.js"></script>
-    <script src="asset/js/jquery.magnific-popup.js"></script>
-    <script src="asset/js/scripts.js"></script>
+    <script src="https://whatsappbot.id/asset/js/jquery.min.js"></script>
+    <script src="https://whatsappbot.id/asset/js/popper.min.js"></script>
+    <script src="https://whatsappbot.id/asset/js/bootstrap.min.js"></script>
+    <script src="https://whatsappbot.id/asset/js/jquery.easing.min.js"></script>
+    <script src="https://whatsappbot.id/asset/js/swiper.min.js"></script>
+    <script src="https://whatsappbot.id/asset/js/jquery.magnific-popup.js"></script>
+    <script src="https://whatsappbot.id/asset/js/scripts.js"></script>
 </body>
 </html>
