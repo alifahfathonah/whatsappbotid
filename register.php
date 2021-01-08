@@ -68,31 +68,56 @@
                             </span>
                         </div>
                         <div class="col-12">
-                            <form method="POST" action="./login_process.php">
-                                <div class="form-group">
-                                    <input type="text" name="username" class="form-control" placeholder="Username">
+                        <form method="POST" action="./register_process.php">
+                            <div class="input-group row mb-3">
+                                <label class="col-4">Nama</label>
+                                <div class="col">
+                                    <input type="text" name="nama" class="form-control" placeholder="Masukkan Nama Anda . . ." required="">
                                 </div>
-                                <div class="form-group">
-                                    <input type="password" name="password" class="form-control" placeholder="Enter Password">
-                                </div>
-                                <div class="form-group text-right">
-                                    Lupa Password?
-                                </div>
-                                <div class="form-group">
-                                    <input type="submit" class="btn btn-block btn-orange" value="Login" />
-                                </div>
+                            </div>
 
-                                <div class="form-group hidden-md-up">
-                                    <a href="./register.php">
-                                        <input type="button" class="btn btn-block btn-orange" value="Belum punya akun?" />
-                                    </a>
+                            <div class="input-group row mb-3">
+                                <label class="col-4">Nomor HP</label>
+                                <div class="col">
+                                    <input type="text" name="nohp" class="form-control" placeholder="Nomor HP Anda . . ." required="">
                                 </div>
-                                <div class="form-group text-center">
-                                    <a href="https://whatsappbot.id">
-                                        Ke Halaman Utama
-                                    </a>
+                            </div>
+
+                            <div class="input-group row mb-3">
+                                <label class="col-4">Email</label>
+                                <div class="col">
+                                    <input type="email" name="email" class="form-control" placeholder="Email Anda . . ." required="">
                                 </div>
-                            </form>
+                            </div>
+
+                            <div class="input-group row mb-3">
+                                <label class="col-4">Password</label>
+                                <div class="col">
+                                    <input type="password" name="password" class="form-control" placeholder="Password . . ." required="">
+                                </div>
+                            </div>
+
+                            <div class="input-group row mb-3">
+                                <label class="col-4">Konfirmasi Password</label>
+                                <div class="col">
+                                    <input type="password" name="confirm" class="form-control" placeholder="Konfirmasi Password . . ." required="">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-block btn-orange" disabled="true">Daftar</button>
+                            </div>
+                            <div class="form-group hidden-md-up">
+                                <a href="./login.php">
+                                    <input type="button" class="btn btn-block btn-orange" value="Sudah punya akun?">
+                                </a>
+                            </div>
+                            <div class="form-group text-center">
+                                <a href="https://whatsappbot.id">
+                                    Ke Halaman Utama
+                                </a>
+                            </div>
+                        </form>
                         </div>
                     </div>
                 </div>
