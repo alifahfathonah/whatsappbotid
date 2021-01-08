@@ -62,14 +62,14 @@
                         <a class="nav-link h6 page-scroll font-weight-bold text-white" href="#harga">Harga</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link h6 page-scroll font-weight-bold text-white" href="#kliwn">Klien</a>
+                        <a class="nav-link h6 page-scroll font-weight-bold text-white" href="#klien">Klien</a>
                     </li>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link h6 page-scroll font-weight-bold text-white" href="#">Login</a>
+                            <a class="nav-link h6 page-scroll font-weight-bold text-white" href="login.php">Login</a>
                         </li>
                         <li class="nav-item">
-                            <a class="btn-solid-reg page-scroll" href="#">Free Trial</a>
+                            <a class="btn-solid-reg page-scroll" href="register.php">Free Trial</a>
                         </li>
                     </ul>
                 </ul>
@@ -88,7 +88,7 @@
                         <div class="text-container hidden-md-down ">
                             <h1>Whatsapp Bot Creator</h1>
                             <p class="p-large">Real Time 24 Jam Melayani Pelanggan</p>
-                            <a class="btn-solid-lg mb-3" href="asset/register">Buat WhatsApp Bot Sekarang</a> <br>
+                            <a class="btn-solid-lg mb-3" href="register.php">Buat WhatsApp Bot Sekarang</a> <br>
                             <img class="img-fluid mt-2" src="asset/images/pengalaman.png">
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-12">
-                            <img src="asset/img/main/Group 16.png" style="max-width: 100%" width="1000px">
+                            <img src="asset/img/main/Gambar1_.png" style="max-width: 100%" width="1000px">
                         </div>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                         </div>
                         <div class="col-md-12 mt-5 mb-5 text-center">
                             <div>
-                                <a href="asset/register">
+                                <a href="register.php">
                                     <button class="btn btn-homepage">
                                         <img src="asset/img/main/android.png" class="m-1" width="14px">
                                         BUAT WHATSAPP BOT SEKARANG
@@ -245,7 +245,7 @@
                                 Whatsapp Bot memiliki sistem Ticketing untuk memudahkan antrian pelayanan pelanggan oleh customer service.
                             </h1>
                         <p></p>
-                        <img src="asset/img/main/Group 238.png" style="max-width: 100%">
+                        <img src="asset/img/main/Gambar2_.png" style="max-width: 100%">
                     </div>
                 </div>
             </div>
@@ -278,15 +278,10 @@
         </div>
 
         <div id="harga" class="basic-1">
-            <div class="container">
-                <div class="row">
+            <div class="mx-5">
+                <div class="row mx-5">
                     <div class="col-12 text-center mb-4">
-                        <p>
-                            </p><h1 class="fs-48">Harga Paket WhatsApp Bot</h1>
-                        <p></p>
-                        <!-- <p>
-                            <span class="color-orange" style="font-size: 25px;font-weight:900; font-family:'Roboto'">Lihat Detail Harga Sekarang Juga</span>
-                        </p> -->
+                        <h1 class="fs-48">Harga Paket WhatsApp Bot</h1>
                     </div>
                     <div class="col d-flex flex-row justify-content-center">
                         <div class="row" style="min-height: 500px">
@@ -308,7 +303,7 @@
                             <div class="col m-1">
                                 <div class="card" style="border-color: #3C7C2A; border-radius: 20px; border-width: 2px; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
-                                        <div class="py-4" style="font-size: 28px; font-family:'Roboto'; font-weight: 900">Whatsapp Pro</div>
+                                        <div class="py-4" style="font-size: 28px; font-family:'Roboto'; font-weight: 900">Nomor Whatsapp Verified</div>
                                         <div class="py-4">
                                             <img src="asset/img/main/Group 175.png" style="max-width: 100%">
                                         </div>
@@ -340,7 +335,7 @@
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
                                         <div class="py-4" style="font-size: 28px; font-family:'Roboto'; font-weight: 900">Custom Bot</div>
                                         <div class="py-4">
-                                            <img src="asset/img/main/evvaa 1.png" style="max-width: 100%">
+                                            <img src="asset/img/main/Group 249.png" style="max-width: 100%">
                                         </div>
                                         <div style="font-family: 'Roboto'; font-size:30px;font-weight:900">
                                             Fitur WhatsApp Bot Sesuai Yang Di Inginkan
@@ -430,7 +425,7 @@
             </div>
         </div>
 
-        <div class="basic-1">
+        <div class="basic-1" id="klien">
             <div class="p-5">
                 <div class="w-100 py-5" style="background:url('asset/img/main/Group 243.png') no-repeat; background-size: cover; background-position: top center;">
                     <div class="container py-5">
@@ -615,7 +610,7 @@
                     </div>
                     <div class="col text-right d-flex flex-column justify-content-center align-items-center">
                         <div>
-                            <a href="asset/register">
+                            <a href="register.php">
                                 <button class="btn btn-homepage-o">
                                     Free Trial
                                 </button>
@@ -625,10 +620,10 @@
                 </div>
             </div>
         </div>
-                <div class="footer" style="background-color: #F0F0F0">
-            <div class="container">
+        <div class="footer" style="background-color: #273443">
+            <div class="container text-white">
                 <div class="row">
-                    <div class="col-lg-4 col-sm-12">
+                    <div class="col-lg-6 col-md-6 col-sm-12">
                         <div class="row">
                             <div class="col hidden-md-down">
                                 <img src="asset/images/Icon.png">
@@ -669,24 +664,22 @@
                             </div>
                         </div>
                     </div>
-                                        <div class="col-lg-8 col-sm-12">
+                    <div class="col-lg-6 col-md-6 col-sm-12">
                         <div class="row">
                             <div class="col" style="min-height: 13em">
                                 <b class="head-footer">Produk</b>
                                 <div>
                                     <ul class="list-footer">
-                                        <li>Harga</li>
-                                        <li>Fitur</li>
+                                        <li><a class="page-scroll nav-link" href="#harga" style="text-white">Harga</a></li>
+                                        <li><a class="page-scroll nav-link" href="#fitur" style="text-white">Fitur</a></li>
                                     </ul>
                                 </div>
                             </div>
                                 <div class="col" style="min-height: 13em">
-                                    <b>Client</b>
+                                    <b>Klien</b>
                                     <div>
                                         <ul class="list-footer">
-                                            <li>Team Kami</li>
-                                            <li>Kantor Eva</li>
-                                            <li>Kontak</li>
+                                            <li><a class="page-scroll nav-link" href="#klien" style="text-white">Klien Kami</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -694,18 +687,9 @@
                                     <b>Company</b>
                                     <div>
                                         <ul class="list-footer">
-                                            <li>Team Kami</li>
-                                            <li>Kantor Eva</li>
-                                            <li>Kontak</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col" style="min-height: 13em">
-                                    <b>Link</b>
-                                    <div>
-                                        <ul class="list-footer">
-                                            <li>Proposal Kerjasama</li>
-                                            <li>Developer</li>
+                                            <li><a class="page-scroll nav-link" href="#">Team Kami</a></li>
+                                            <li><a class="page-scroll nav-link" href="#">Kantor Eva</a></li>
+                                            <!-- <li>Kontak</li> -->
                                         </ul>
                                     </div>
                                 </div>
@@ -713,26 +697,35 @@
                                     <b>Legal</b>
                                     <div>
                                         <ul class="list-footer">
+                                            <li><a class="page-scroll nav-link" href="#">Term & Condition</a></li>
+                                            <li><a class="page-scroll nav-link" href="#">Privacy Policy</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- <div class="col" style="min-height: 13em">
+                                    <b>Legal</b>
+                                    <div>
+                                        <ul class="list-footer">
                                             <li>Term &amp; Condition</li>
                                             <li>Privacy Policy</li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> -->
                             <div class="w-100"></div>
                             <div class="col w-100 text-right hidden-md-down" style="padding-right:5em">
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/twitter.png" style="margin:15px"></a>
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/instagram.png" style="margin:15px"></a>
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/facebook.png" style="margin:15px"></a>
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/linkedin.png" style="margin:15px"></a>
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/github.png" style="margin:15px"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/twitter.png" style="margin:15px;filter:invert(100%)"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/instagram.png" style="margin:15px;filter:invert(100%)"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/facebook.png" style="margin:15px;filter:invert(100%)"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/linkedin.png" style="margin:15px;filter:invert(100%)"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/github.png" style="margin:15px;filter:invert(100%)"></a>
                             </div>
 
                             <div class="col w-100 text-center hidden-md-up">
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/twitter.png" style="margin:15px"></a>
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/instagram.png" style="margin:15px"></a>
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/facebook.png" style="margin:15px"></a>
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/linkedin.png" style="margin:15px"></a>
-                                <a href="https://google.com" target="_blank"><img src="asset/img/main/github.png" style="margin:15px"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/twitter.png" style="margin:15px;filter:invert(100%)"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/instagram.png" style="margin:15px;filter:invert(100%)"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/facebook.png" style="margin:15px;filter:invert(100%)"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/linkedin.png" style="margin:15px;filter:invert(100%)"></a>
+                                <a href="https://google.com" target="_blank"><img src="asset/img/main/github.png" style="margin:15px;filter:invert(100%)"></a>
                             </div>
                         </div>
                     </div>
@@ -740,11 +733,11 @@
             </div>
         </div>
 
-        <div class="copyright" style="background-color: #F0F0F0">
+        <div class="text-center py-3" style="background-color: #232F3C">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p class="p-small">Copyright © 2020 <a href="https://evaid">Eva</a> - All rights reserved</p>
+                        <p class="p-small text-white">Copyright © 2020 <a href="https://evaid">Eva</a> - All rights reserved</p>
                     </div>
                 </div>
             </div>
@@ -758,5 +751,5 @@
     <script src="asset/js/swiper.min.js"></script>
     <script src="asset/js/jquery.magnific-popup.js"></script>
     <script src="asset/js/scripts.js"></script>
-    <script src="asset/js/scripts.js"></script>
+    <!-- <script src="asset/js/scripts.js"></script> -->
 </body></html>
