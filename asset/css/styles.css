@@ -143,9 +143,9 @@ a.white {
 .btn-solid-reg {
 	display: block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #175829;
+	border: 0.125rem solid #01E675;
 	border-radius: 2rem;
-	background-color: #175829;
+	background-color: #01E675;
 	color: #fff;
 	font: 700 0.75rem/0 "Raleway", sans-serif;
 	text-decoration: none;
@@ -155,7 +155,7 @@ a.white {
 .btn-solid-eva {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #175829;
+	border: 0.125rem solid #01E675;
 	border-radius: 2rem;
 	background-color: #175829;
 	color: #fff;
@@ -173,9 +173,9 @@ a.white {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #175829;
+	border: 0.125rem solid #01E675;
 	border-radius: 2rem;
-	background-color: #175829;
+	background-color: #01E675;
 	color: #fff;
 	font: 700 0.75rem/0 "Raleway", sans-serif;
 	text-decoration: none;
@@ -184,7 +184,7 @@ a.white {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #175829;
+	color: #01E675;
 	text-decoration: none;
 }
 
@@ -1921,9 +1921,9 @@ a:hover.back-to-top {
 	.btn-solid-reg {
 		display: inline-flex;
 		padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-		border: 0.125rem solid #175829;
+		border: 0.125rem solid #01E675;
 		border-radius: 2rem;
-		background-color: #175829;
+		background-color: #01E675;
 		color: #fff;
 		font: 700 0.75rem/0 "Raleway", sans-serif;
 		text-decoration: none;
@@ -2279,11 +2279,11 @@ a:hover.back-to-top {
     font-weight: 500;
     font-size: 12px;
     line-height: 14px;
-    background-color: #175829;
+    background-color: #01E675;
     color: #ffffff;
     padding: 10px 35px;
 	border-radius: 10px;
-	border: 1px solid #175829;
+	border: 1px solid #01E675;
 }
 
 a{
@@ -2297,8 +2297,8 @@ a:hover{
 
 .btn-homepage:hover {
 	background-color: #FFF;
-	color: #175829;
-	border: 1px solid #175829;
+	color: #01E675;
+	border: 1px solid #01E675;
 }
 
 .btn-homepage-o {

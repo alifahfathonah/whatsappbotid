@@ -241,7 +241,6 @@
                     <div class="col text-center">
                         <p>
                             </p><h1 class="fs-48">
-                                
                                 Whatsapp Bot memiliki sistem Ticketing untuk memudahkan antrian pelayanan pelanggan oleh customer service.
                             </h1>
                         <p></p>
