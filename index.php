@@ -69,7 +69,7 @@
                             <a class="nav-link h6 page-scroll font-weight-bold text-white" href="login.php">Login</a>
                         </li>
                         <li class="nav-item">
-                            <a class="btn-solid-reg page-scroll" href="register.php">Free Trial</a>
+                            <a class="btn-solid-reg page-scroll" href="https://admin.eva.id/wabot/register.php">Free Trial</a>
                         </li>
                     </ul>
                 </ul>
@@ -82,13 +82,13 @@
                         <div class="text-container text-center hidden-md-up">
                             <h1>Whatsapp Bot Creator</h1>
                             <p class="p-large">Real Time 24 Jam Melayani Pelanggan</p>
-                            <a class="btn-solid-lg mb-3" href="asset/register">Buat WhatsApp Bot Sekarang</a> <br>
+                            <a class="btn-solid-lg mb-3" href="https://admin.eva.id/wabot/register.php">Buat WhatsApp Bot Sekarang</a> <br>
                             <img class="img-fluid mt-2" src="asset/images/pengalaman.png">
                         </div>
                         <div class="text-container hidden-md-down ">
                             <h1>Whatsapp Bot Creator</h1>
                             <p class="p-large">Real Time 24 Jam Melayani Pelanggan</p>
-                            <a class="btn-solid-lg mb-3" href="register.php">Buat WhatsApp Bot Sekarang</a> <br>
+                            <a class="btn-solid-lg mb-3" href="https://admin.eva.id/wabot/register.php">Buat WhatsApp Bot Sekarang</a> <br>
                             <img class="img-fluid mt-2" src="asset/images/pengalaman.png">
                         </div>
                     </div>
@@ -164,7 +164,7 @@
                         </div>
                         <div class="col-md-12 mt-5 mb-5 text-center">
                             <div>
-                                <a href="register.php">
+                                <a href="https://admin.eva.id/wabot/register.php">
                                     <button class="btn btn-homepage">
                                         <img src="asset/img/main/android.png" class="m-1" width="14px">
                                         BUAT WHATSAPP BOT SEKARANG
@@ -439,7 +439,7 @@
                                         <div style="position:absolute;left:0;top:0;">
                                             <img src="asset/img/main/kutip.png" />
                                         </div>
-                                        <div class="m-5 text-center">
+                                        <div class="m-5 m-sm-0 text-center">
                                             <p style="font-size:31px">
                                             “ Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
                                             </p>
@@ -453,7 +453,7 @@
                                         <div style="position:absolute;right:0;bottom:0;">
                                             <img src="asset/img/main/kutip.png" style="transform:rotate(180deg)" />
                                         </div>
-                                        <div class="m-5 text-center">
+                                        <div class="m-5 m-sm-0 text-center">
                                             <p style="font-size:31px">
                                             “ Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
                                             </p>
@@ -609,7 +609,7 @@
                     </div>
                     <div class="col text-right d-flex flex-column justify-content-center align-items-center">
                         <div>
-                            <a href="register.php">
+                            <a href="https://admin.eva.id/wabot/register.php">
                                 <button class="btn btn-homepage-o">
                                     Free Trial
                                 </button>
