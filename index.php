@@ -66,7 +66,7 @@
                     </li>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link h6 page-scroll font-weight-bold text-white" href="login.php">Login</a>
+                            <a class="nav-link h6 page-scroll font-weight-bold text-white" href="https://admin.eva.id/wabot/login.php">Login</a>
                         </li>
                         <li class="nav-item">
                             <a class="btn-solid-reg page-scroll" href="https://admin.eva.id/wabot/register.php">Free Trial</a>
