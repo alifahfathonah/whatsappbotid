@@ -623,7 +623,7 @@
             <div class="container text-white">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12">
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col hidden-md-down">
                                 <img src="asset/images/Icon.png">
                             </div>
@@ -661,7 +661,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <div class="row">
@@ -736,7 +736,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p class="p-small text-white">Copyright © 2020 <a href="https://evaid">Eva</a> - All rights reserved</p>
+                        <p class="p-small text-white">Copyright © 2020 Powered By : <a href="https://evaid">Eva</a> - All rights reserved</p>
                     </div>
                 </div>
             </div>
