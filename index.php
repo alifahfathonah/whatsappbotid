@@ -293,13 +293,13 @@
                                         </div>
                                         <div style="font-family: 'Roboto'">
                                             <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="font-size: 45px; font-weight: 900">27.790.</span>000 Per Tahun
+                                            <span style="font-size: 45px; font-weight: 900">21.780</span>000 Per Tahun
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col m-1">
+                            <!-- <div class="col m-1">
                                 <div class="card" style="border-color: #3C7C2A; border-radius: 20px; border-width: 2px; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
                                         <div class="py-4" style="font-size: 28px; font-family:'Roboto'; font-weight: 900">Nomor Whatsapp Verified</div>
@@ -312,7 +312,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div class="col m-1">
                                 <div class="card text-white" style="border-color: #3C7C2A; border-radius: 20px; border-width: 2px; background-color: #3C7C2A; height: 100%">
@@ -323,7 +323,7 @@
                                         </div>
                                         <div style="font-family: 'Roboto'">
                                             <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="font-size: 45px; font-weight: 900">38.280.</span>000 Per Tahun
+                                            <span style="font-size: 45px; font-weight: 900">42.240.</span>000 Per Tahun
                                         </div>
                                     </div>
                                 </div>
@@ -389,7 +389,7 @@
                                 <td>WhatsApp Pro</td>
                                 <td class="border-lr">WhatsApp Pro Plus</td>
                                 <td rowspan="6" class="text-center border-r border-b" style="vertical-align:middle!important">
-                                    <a href="" class="btn btn-orange" style="border-radius: 2em">Kontak Tim Kami</a>
+                                    <a href="https://wa.me/14243837788?text=Saya%20mau%20tanya%20tentang%20EVA" class="btn btn-orange" style="border-radius: 2em">Kontak Tim Kami</a>
                                 </td>
                             </tr>
                             <tr>
