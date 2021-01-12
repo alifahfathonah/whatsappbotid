@@ -338,8 +338,6 @@
                                         </div>
                                         <div style="font-family: 'Roboto'; font-size:30px;font-weight:900">
                                             Fitur WhatsApp Bot Sesuai Yang Di Inginkan
-                                            
-                                            
                                         </div>
                                     </div>
                                 </div>
@@ -388,7 +386,7 @@
                                 <td style="width: 40%" class="border-lr">Harga/Tahun</td>
                                 <td>WhatsApp Pro</td>
                                 <td class="border-lr">WhatsApp Pro Plus</td>
-                                <td rowspan="6" class="text-center border-r border-b" style="vertical-align:middle!important">
+                                <td rowspan="8" class="text-center border-r border-b" style="vertical-align:middle!important">
                                     <a href="https://wa.me/14243837788?text=Saya%20mau%20tanya%20tentang%20EVA" class="btn btn-orange" style="border-radius: 2em">Kontak Tim Kami</a>
                                 </td>
                             </tr>
@@ -401,6 +399,48 @@
                                 <td class="border-lr">3.000 MAU</td>
                             </tr>
                             <tr>
+                                <td class="border-lr">Quota Chatbot Chat/Bln</td>
+                                <td>30.000 Chat/Bln</td>
+                                <td class="border-lr">60.000 Chat/Bln</td>
+                            </tr>
+                            <tr>
+                                <td class="border-lr">Admin / Operator</td>
+                                <td>1 User Adm</td>
+                                <td class="border-lr">2 User Admn</td>
+                            </tr>
+                            <tr>
+                                <td class="border-lr">Ticket LiveChat</td>
+                                <td class="text-center">
+                                    <i class="fas fa-check"></i>
+                                </td>
+                                <td class="border-lr text-center">
+                                    <i class="fas fa-check"></i>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="border-lr">
+                                    Integrasi Chat Messenger :
+                                    <p>
+                                    WA, Telegram, Web Widget
+                                    </p>
+                                </td>
+                                <td class="text-center">
+                                    <i class="fas fa-check"></i>
+                                </td>
+                                <td class="border-lr text-center">
+                                    <i class="fas fa-check"></i>
+                                </td>
+                            </tr>
+                            <tr class="border-b">
+                                <td class="border-lr">Dashboard Management</td>
+                                <td class="text-center">
+                                    <i class="fas fa-check"></i>
+                                </td>
+                                <td class="border-lr text-center">
+                                    <i class="fas fa-check"></i>
+                                </td>
+                            </tr>
+                            <!-- <tr>
                                 <td class="border-lr">Kuota Siaran</td>
                                 <td>Rp.490 / Push</td>
                                 <td class="border-lr">Rp.490 / Push</td>
@@ -414,10 +454,13 @@
                                 <td class="border-lr">Biaya Integrasi (On Time)</td>
                                 <td>Rp.1.500.000</td>
                                 <td class="border-lr">Rp.1.500.000</td>
-                            </tr>
+                            </tr> -->
                         </table>
                         <p class="text-center">
-                            * MAU : Montly Active User (Jumlah Nomor Yang Chat Dengan ChatBot)
+                            <b>* MAU</b> : Montly Active User (Jumlah Nomor Yang Chat Dengan ChatBot).
+                        </p>
+                        <p class="text-center">
+                            <b>* Chat</b> : Jumlah Trafik Chat in & out setiap percakapan.
                         </p>
                     </div>
                 </div>
