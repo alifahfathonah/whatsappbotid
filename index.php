@@ -394,7 +394,7 @@
                                 <th colspan="3">Fitur yang Didapat</th>
                             </tr>
                             <tr>
-                                <td class="border-lr">Kuota Bicara Dengan Pelanggan Per Bulan</td>
+                                <td class="border-lr">Kuota MAU Whatsapp</td>
                                 <td>1.000 MAU</td>
                                 <td class="border-lr">3.000 MAU</td>
                             </tr>
@@ -407,6 +407,24 @@
                                 <td class="border-lr">Admin / Operator</td>
                                 <td>1 User Adm</td>
                                 <td class="border-lr">2 User Admn</td>
+                            </tr>
+                            <tr>
+                                <td class="border-lr">Whatsapp Broadcast Tool</td>
+                                <td class="text-center">
+                                    Rp. 490/Push
+                                </td>
+                                <td class="border-lr text-center">
+                                    Rp. 490/Push
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="border-lr">Registrasi WA Verified</td>
+                                <td class="text-center">
+                                    <i class="fas fa-check"></i>
+                                </td>
+                                <td class="border-lr text-center">
+                                    <i class="fas fa-check"></i>
+                                </td>
                             </tr>
                             <tr>
                                 <td class="border-lr">Ticket LiveChat</td>
