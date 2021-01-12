@@ -384,8 +384,8 @@
                             </tr>
                             <tr>
                                 <td style="width: 40%" class="border-lr">Harga/Tahun</td>
-                                <td>WhatsApp Pro</td>
-                                <td class="border-lr">WhatsApp Pro Plus</td>
+                                <td>Rp. 21.780.000</td>
+                                <td class="border-lr">Rp. 42.240.000</td>
                                 <td rowspan="8" class="text-center border-r border-b" style="vertical-align:middle!important">
                                     <a href="https://wa.me/14243837788?text=Saya%20mau%20tanya%20tentang%20EVA" class="btn btn-orange" style="border-radius: 2em">Kontak Tim Kami</a>
                                 </td>
