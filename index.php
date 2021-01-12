@@ -106,7 +106,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <hr style="height: 8px; background: #ffffff; width: 100px; border-radius: 10px;">
-                            <h1 style="font-size:48px;font-weight: 700">WhatsApp Bot dapat mengurangi Beban Layanan Pelanggan secara Signifikan</h1>
+                            <h1 style=";font-weight: 700">WhatsApp Bot dapat mengurangi Beban Layanan Pelanggan secara Signifikan</h1>
                             <br>
                             <p class="px-5">
                                 Sebelum diteruskan kepada Operator, setiap pesan yang masuk akan ditangani oleh WhatsApp Bot. Dan apabila ada pertanyaan yang belum dapat dijawab oleh WhatsApp Bot, pesan akan diteruskan kepada Operatos.
@@ -162,7 +162,7 @@
                                 </span>
                             </p>
                         </div>
-                        <div class="col-md-12 mt-5 mb-5 text-center">
+                        <div class="col-md-12 my-md-5 my-sm-0 text-center">
                             <div>
                                 <a href="https://admin.eva.id/wabot/register.php">
                                     <button class="btn btn-homepage">
@@ -173,7 +173,7 @@
                             </div>
                         </div>
                         <div class="col-md-12 mt-5 mb-5">
-                            <div class="row text-center hidden-md-down" style="font-size:22px">
+                            <div class="row text-center" style="font-size:22px">
                                 <div class="col-md-4">
                                     <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
                                 <div class="col-md-4">
@@ -182,14 +182,14 @@
                                     <i class="fas fa-check"></i> Trial 14 Hari</div>
                             </div>
 
-                            <div class="row hidden-md-up" style="font-size:22px">
+                            <!-- <div class="row hidden-md-up" style="font-size:22px">
                                 <div class="col-md-4">
                                     <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
                                 <div class="col-md-4">
                                     <i class="fas fa-check"></i> Statistik &amp; Laporan Detail</div>
                                 <div class="col-md-4">
                                     <i class="fas fa-check"></i> Trial 14 Hari</div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -240,7 +240,7 @@
                 <div class="row pt-5">
                     <div class="col text-center">
                         <p>
-                            </p><h1 class="fs-48">
+                            </p><h1 class="">
                                 Whatsapp Bot memiliki sistem Ticketing untuk memudahkan antrian pelayanan pelanggan oleh customer service.
                             </h1>
                         <p></p>
@@ -277,7 +277,7 @@
         </div>
 
         <div id="harga" class="basic-1">
-            <div class="mx-5">
+            <div class="mx-md-5 mx-sm-0">
                 <div class="row mx-5">
                     <div class="col-12 text-center mb-4">
                         <h1 class="fs-48">Harga Paket WhatsApp Bot</h1>
@@ -299,7 +299,7 @@
                                 </div>
                             </div>
 
-                            <!-- <div class="col m-1">
+                            <div class="col m-1">
                                 <div class="card" style="border-color: #3C7C2A; border-radius: 20px; border-width: 2px; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
                                         <div class="py-4" style="font-size: 28px; font-family:'Roboto'; font-weight: 900">Nomor Whatsapp Verified</div>
@@ -312,7 +312,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div> -->
+                            </div>
 
                             <div class="col m-1">
                                 <div class="card text-white" style="border-color: #3C7C2A; border-radius: 20px; border-width: 2px; background-color: #3C7C2A; height: 100%">
@@ -372,7 +372,7 @@
                     </div>
                     <div class="w-100"></div>
                     <div class="col">
-                        <table class="table">
+                        <table class="table table-responsive">
                             <tr>
                                 <th style="width: 40%"></th>
                                 <th class="border-lr">WhatsApp Pro</th>
@@ -472,19 +472,23 @@
                 <div class="w-100 py-5" style="background:url('asset/img/main/Group 243.png') no-repeat; background-size: cover; background-position: top center;">
                     <div class="container py-5">
                         <div class="card py-5">
-                            <div class="card-body p-5">
+                            <div class="card-body p-sm-0 p-md-5">
                                 <div class="row">
                                     <div class="col">
-                                        <h1 class="text-center" style="font-size:48px;">Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
+                                        <h1 class="text-center hidden-md-down" style="font-size:48px;">Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
+                                        <h1 class="text-center hidden-md-up" >Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
                                     </div>
                                     <div class="w-100"></div>
                                     <div class="col">
-                                        <div style="position:absolute;left:0;top:0;">
-                                            <img src="asset/img/main/kutip.png" />
+                                        <div style="position:absolute;left:0;top:-50px;">
+                                            <img src="asset/img/main/kutip.png" width="50px" />
                                         </div>
                                         <div class="m-5 m-sm-0 text-center">
-                                            <p style="font-size:31px">
-                                            “ Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
+                                            <p style="font-size:31px" class="hidden-md-down">
+                                            “Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
+                                            </p>
+                                            <p style="" class="hidden-md-up">
+                                            “Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
                                             </p>
                                             <p>
                                                 - <b>Iip Saripudin</b> At Bendahara Koperasi Perbendaharaan Kementrian Keuangan
@@ -494,11 +498,14 @@
 
                                     <div class="col">
                                         <div style="position:absolute;right:0;bottom:0;">
-                                            <img src="asset/img/main/kutip.png" style="transform:rotate(180deg)" />
+                                            <img src="asset/img/main/kutip.png" width="50px" style="transform:rotate(180deg)" />
                                         </div>
                                         <div class="m-5 m-sm-0 text-center">
-                                            <p style="font-size:31px">
-                                            “ Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
+                                            <p style="font-size:31px" class="hidden-md-down">
+                                            “Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
+                                            </p>
+                                            <p style="" class="hidden-md-up">
+                                            “Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
                                             </p>
                                             <p>
                                                 - <b>Iip Saripudin</b> At Bendahara Koperasi Perbendaharaan Kementrian Keuangan
