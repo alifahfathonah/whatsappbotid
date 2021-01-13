@@ -520,13 +520,13 @@
                                         </div>
                                         <div class="m-5 m-sm-0 text-center">
                                             <p style="font-size:31px" class="hidden-md-down">
-                                            “Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
+                                            “Chatbot EVA bisa digunakana di banyak Platform. Saya menggunakan EVA karena performa resopnnya sangat baik juga harganya bersahabat..”
                                             </p>
                                             <p style="" class="hidden-md-up">
-                                            “Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
+                                            “Chatbot EVA bisa digunakana di banyak Platform. Saya menggunakan EVA karena performa resopnnya sangat baik juga harganya bersahabat..”
                                             </p>
                                             <p>
-                                                - <b>Iip Saripudin</b> At Bendahara Koperasi Perbendaharaan Kementrian Keuangan
+                                                - <b>Heri Riyanto</b> At IT Analyst PT. Sasa Inti
                                             </p>
                                         </div>
                                     </div>
