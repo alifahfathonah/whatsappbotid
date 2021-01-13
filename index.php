@@ -486,7 +486,7 @@
         </div>
 
         <div class="basic-1" id="klien">
-            <div class="p-5">
+            <div class="p-md-5 p-sm-2">
                 <div class="w-100 py-5" style="background:url('asset/img/main/Group 243.png') no-repeat; background-size: cover; background-position: top center;">
                     <div class="container py-5">
                         <div class="card py-5">
