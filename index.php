@@ -76,8 +76,8 @@
             </div>
         </nav>
         <header id="header" class="header" style="padding-top: 150px">
-            <div class="container">
-                <div class="row">
+            <div class="container p-lg-5">
+                <div class="row p-lg-5 my-lg-5">
                     <div class="col-lg-6">
                         <div class="text-container text-center hidden-md-up">
                             <h1>Whatsapp Bot Creator</h1>
