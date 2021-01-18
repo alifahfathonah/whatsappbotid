@@ -435,13 +435,8 @@
                                     <i class="fas fa-check"></i>
                                 </td>
                             </tr>
-                            <tr>
-                                <td class="border-lr">
-                                    Integrasi Chat Messenger :
-                                    <p>
-                                    WA, Telegram, Web Widget
-                                    </p>
-                                </td>
+                            <tr class="border-b">
+                                <td class="border-lr">Dashboard Management</td>
                                 <td class="text-center">
                                     <i class="fas fa-check"></i>
                                 </td>
@@ -449,8 +444,13 @@
                                     <i class="fas fa-check"></i>
                                 </td>
                             </tr>
-                            <tr class="border-b">
-                                <td class="border-lr">Dashboard Management</td>
+                            <tr>
+                                <td class="border-lr">
+                                    Integrasi Chat Messenger :
+                                    <p>
+                                    WA, Telegram, Web Widget
+                                    </p>
+                                </td>
                                 <td class="text-center">
                                     <i class="fas fa-check"></i>
                                 </td>
