@@ -457,13 +457,6 @@
                                     </div>
                                     <div class="card-body d-flex justify-content-center align-items-center" style="border: 1px solid #1EBEA5;">
                                         <a href="https://wa.me/14243837788?text=Saya%20mau%20tanya%20tentang%20EVA" class="btn btn-orange" style="border-radius: 2em">Kontak Tim Kami</a>
-                                        <!-- <ul class="list-group list-group-flush">
-                                            <li class="list-group-item">Cras justo odio</li>
-                                            <li class="list-group-item">Dapibus ac facilisis in</li>
-                                            <li class="list-group-item">Morbi leo risus</li>
-                                            <li class="list-group-item">Porta ac consectetur ac</li>
-                                            <li class="list-group-item">Vestibulum at eros</li>
-                                        </ul> -->
                                     </div>
                                 </div>
                             </div>
@@ -867,7 +860,7 @@
         <div class="footer" style="background-color: #273443">
             <div class="container text-white">
                 <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-12">
+                    <!-- <div class="col-lg-6 col-md-6 col-sm-12"> -->
                         <!-- <div class="row">
                             <div class="col hidden-md-down">
                                 <img src="asset/images/Icon.png">
@@ -907,8 +900,8 @@
                                 </div>
                             </div>
                         </div> -->
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12">
+                    <!-- </div> -->
+                    <div class="col-12">
                         <div class="row">
                             <div class="col" style="min-height: 13em">
                                 <b class="head-footer">Produk</b>
