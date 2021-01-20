@@ -342,10 +342,6 @@
             </div>
         </div>
 
-        
-
-        
-
         <div id="harga" class="basic-1">
             <div class="mx-md-5 mx-sm-0">
                 <div class="row mx-5">
@@ -355,22 +351,100 @@
                     </div>
                     <div class="col d-flex flex-row justify-content-center">
                         <div class="row" style="min-height: 500px">
-                            <div class="col m-1">
-                                <div class="card" style="border-color: #1EBEA5;  border-width: 2px; height: 100%">
-                                    <div class="card-body d-flex flex-column text-center justify-content-center">
-                                        <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Whatsapp Pro</div>
+
+                            <div class="col-lg-3 col-sm-12 my-2">
+                                <div class="card" style="height: 100%">
+                                    <div class="card-body d-flex flex-column text-center justify-content-center" style="border: 1px solid #1EBEA5;">
+                                        <div class="py-4" style="font-family:'Roboto'; font-weight: 900">Chatbot Tanpa WA</div>
+                                        <div class="py-4">
+                                            <img src="asset/img/main/eva bot 1.png" style="max-width: 100%;min-height: 143px;">
+                                        </div>
+                                        <div style="font-family: 'Roboto'">
+                                            <sup style="position: relative;top: -30px">Rp</sup>
+                                            <span style="font-weight:900">15.900.</span>000 Per Tahun
+                                        </div>
+                                    </div>
+                                    <div class="card-body" style="border: 1px solid #1EBEA5;">
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">Cras justo odio</li>
+                                            <li class="list-group-item">Dapibus ac facilisis in</li>
+                                            <li class="list-group-item">Morbi leo risus</li>
+                                            <li class="list-group-item">Porta ac consectetur ac</li>
+                                            <li class="list-group-item">Vestibulum at eros</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3 col-sm-12 my-2">
+                                <div class="card" style="height: 100%">
+                                    <div class="card-body d-flex flex-column text-center justify-content-center" style="border: 1px solid #1EBEA5;">
+                                        <div class="py-4" style="font-family:'Roboto'; font-weight: 900">Whatsapp Pro</div>
                                         <div class="py-4">
                                             <img src="asset/img/main/Group 175.png" style="max-width: 100%">
                                         </div>
                                         <div style="font-family: 'Roboto'">
                                             <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="; font-weight: 900">21.780</span>000 Per Tahun
+                                            <span style="font-weight: 900">21.780.</span>000 Per Tahun
                                         </div>
+                                    </div>
+                                    <div class="card-body" style="border: 1px solid #1EBEA5;">
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">Cras justo odio</li>
+                                            <li class="list-group-item">Dapibus ac facilisis in</li>
+                                            <li class="list-group-item">Morbi leo risus</li>
+                                            <li class="list-group-item">Porta ac consectetur ac</li>
+                                            <li class="list-group-item">Vestibulum at eros</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col m-1">
+                            <div class="col-lg-3 col-sm-12 my-2">
+                                <div class="card" style="height: 100%">
+                                    <div class="card-body text-white d-flex flex-column text-center justify-content-center" style="border: 1px solid #1EBEA5; background-color: #1EBEA5;">
+                                        <div class="py-4" style="font-family:'Roboto'; font-weight: 900">Whatsapp Pro Plus</div>
+                                        <div class="py-4">
+                                            <img src="asset/img/main/Group 175.png" style="max-width: 100%">
+                                        </div>
+                                        <div style="font-family: 'Roboto'">
+                                            <sup style="position: relative;top: -30px">Rp</sup>
+                                            <span style="font-weight: 900">21.780.</span>000 Per Tahun
+                                        </div>
+                                    </div>
+                                    <div class="card-body" style="border: 1px solid #1EBEA5;">
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">Cras justo odio</li>
+                                            <li class="list-group-item">Dapibus ac facilisis in</li>
+                                            <li class="list-group-item">Morbi leo risus</li>
+                                            <li class="list-group-item">Porta ac consectetur ac</li>
+                                            <li class="list-group-item">Vestibulum at eros</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3 col-sm-12 my-2">
+                                <div class="card" style="height: 100%">
+                                    <div class="card-body d-flex flex-column text-center justify-content-center" style="border: 1px solid #1EBEA5">
+                                        <div class="py-4" style="font-family:'Roboto'; font-weight: 900">Custom Bot</div>
+                                        <div class="py-4">
+                                            <img src="asset/img/main/Group 249.png" style="max-width: 100%">
+                                        </div>
+                                    </div>
+                                    <div class="card-body" style="border: 1px solid #1EBEA5;">
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">Cras justo odio</li>
+                                            <li class="list-group-item">Dapibus ac facilisis in</li>
+                                            <li class="list-group-item">Morbi leo risus</li>
+                                            <li class="list-group-item">Porta ac consectetur ac</li>
+                                            <li class="list-group-item">Vestibulum at eros</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- <div class="col m-1">
                                 <div class="card" style="border-color: #1EBEA5;  border-width: 2px; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
                                         <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Nomor Whatsapp Verified</div>
@@ -383,9 +457,9 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
-                            <div class="col m-1">
+                            <!-- <div class="col m-1">
                                 <div class="card text-white" style="border-color: #1EBEA5; border-width: 2px; background-color: #1EBEA5; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
                                         <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Whatsapp Pro Plus</div>
@@ -398,9 +472,9 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
-                            <div class="col m-1">
+                            <!-- <div class="col m-1">
                                 <div class="card" style="border-color: #1EBEA5; border-width: 2px; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
                                         <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Custom Bot</div>
@@ -412,7 +486,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
@@ -542,7 +616,7 @@
         </div> -->
 
         <div class="basic-1" id="klien">
-            <div class="p-md-5 p-sm-1">
+            <div class="p-md-4 p-sm-0">
                 <div class="w-100 py-lg-5 py-sm-0">
                     <div class="container py-lg-5 py-md-5 py-sm-0">
                         <div class="py-lg-5 py-md-5 py-sm-0">
@@ -577,6 +651,85 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="basic-1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center py-md-3">
+                        <h1>Perusahan yang menggunakan Jasa Kami</h1>
+                    </div>
+                    <div class="col-12 hidden-md-down d-flex flex-row justify-content-around align-items-center">
+                        <div><img src="asset/img/main/image 4.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 5.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 6.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 7.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 8.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 11.png" class="m-3 d-block" /></div>
+                    </div>
+
+                    <div class="col-12 hidden-md-down d-flex flex-row justify-content-around align-items-center">
+                        <div><img src="asset/img/main/image 14.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 28.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 13.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 27.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 25.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 23.png" class="m-3 d-block" /></div>
+                    </div>
+
+                    <div class="col-12 hidden-md-down d-flex flex-row justify-content-around align-items-center">
+                        <div><img src="asset/img/main/image 24.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 29.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 12.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 26.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 21.png" class="m-3 d-block" /></div>
+                    </div>
+
+                    <div class="col-12 hidden-md-down d-flex flex-row justify-content-around align-items-center">
+                        <div><img src="asset/img/main/image 19.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 22.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 18.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 15.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 20.png" class="m-3 d-block" /></div>
+                    </div>
+
+                    <!--  -->
+
+                    <div class="col-12 hidden-md-up d-flex flex-column justify-content-around align-items-center">
+                        <div><img src="asset/img/main/image 4.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 5.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 6.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 7.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 8.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 11.png" class="m-3 d-block" /></div>
+                    </div>
+
+                    <div class="col-12 hidden-md-up d-flex flex-column justify-content-around align-items-center">
+                        <div><img src="asset/img/main/image 14.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 28.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 13.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 27.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 25.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 23.png" class="m-3 d-block" /></div>
+                    </div>
+
+                    <div class="col-12 hidden-md-up d-flex flex-column justify-content-around align-items-center">
+                        <div><img src="asset/img/main/image 24.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 29.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 12.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 26.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 21.png" class="m-3 d-block" /></div>
+                    </div>
+
+                    <div class="col-12 hidden-md-up d-flex flex-column justify-content-around align-items-center">
+                        <div><img src="asset/img/main/image 19.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 22.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 18.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 15.png" class="m-3 d-block" /></div>
+                        <div><img src="asset/img/main/image 20.png" class="m-3 d-block" /></div>
                     </div>
                 </div>
             </div>
