@@ -223,7 +223,7 @@
                                     Reporting dan Monitoring secara RealTime
                                 </h1>
                                 <p>
-                                Laporan kinerja WhatsApp Bot dan Customer Service yang mengelolanya bisa dipantau secara realtime meliputi laporan :
+                                Laporan kinerja WhatsApp Bot dan Customer Service yang mengelolanya bisa dipantau secara realtime.
                                 </p>
                             </div>
 
@@ -232,7 +232,7 @@
                                     Reporting dan Monitoring secara RealTime
                                 </h1>
                                 <p>
-                                Laporan kinerja WhatsApp Bot dan Customer Service yang mengelolanya bisa dipantau secara realtime meliputi laporan :
+                                Laporan kinerja WhatsApp Bot dan Customer Service yang mengelolanya bisa dipantau secara realtime.
                                 </p>
                             </div>
                         </div>
