@@ -2360,8 +2360,13 @@ a:hover{
         display: none!important;
 	}
 
+	.fixed-bottom-message{
+		transform: scale(.7);
+	}
+
 	h1{
-		font: 700 40px "Raleway", sans-serif
+		/* font: 700 40px "Raleway", sans-serif */
+		font: 700 30px "Raleway", sans-serif
 	}
 }
 
@@ -2370,7 +2375,7 @@ a:hover{
 }
 
 .fs-48 {
-	font-size: 48px;
+	/* font-size: 48px; */
 }
 
 /* Custom */

@@ -136,7 +136,7 @@
                             <p>
                                 </p>
                                     <h1>
-                                        <span style="color: #000000;font-size:48px;">
+                                        <span style="color: #000000;">
                                             Mengisi Dan Mengelola Pengetahuan dengan Mudah
                                         </span>
                                     </h1>
@@ -172,7 +172,7 @@
                             </div>
                             <div class="text-right hidden-md-down">
                                 <p>
-                                    </p><h1 style="font-size: 48px">
+                                    </p><h1 style="">
                                         <span class="">Bercakap-cakap</span> langsung dengan Customer Service melalui <span class="">LiveChat</span>
                                     </h1>
                                 <p></p>
@@ -216,7 +216,7 @@
                         <div class="image-container">
                             <div>
                                 <p>
-                                    </p><h1 style="font-size: 48px">
+                                    </p><h1 style="">
                                         <span class="">Reporting</span> dan Monitoring secara RealTime
                                     </h1>
                                 <p></p>
@@ -235,17 +235,76 @@
             </div>
         </div>
 
+        <div class="basic-1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <img src="asset/img/main/Group 292.png" style="max-width: 100%">
+                    </div>
+                    <div class="col-lg-6 d-flex flex-column align-items-center justify-content-center text-right">
+                            <div>
+                                <h1 style="">
+                                    Nomor WhatsApp Verified
+                                </h1>
+                            </div>
+                            <div>
+                                Anda Akan Mendapatkan Nomor WhatsApp Verified Setelah Registrasi di WhatsApp Bot
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="basic-1 bg-diag-right">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="image-container">
+                            <div>
+                                <h1>
+                                    Mengirimkan Notifikasi Di WhatsApp
+                                </h1>
+                            </div>
+                            <div>
+                                Kirim pembaruan Notifikasi, pengingat pengiriman, pengingat pembayaran, dan Notifikasi lainnya di WhatsApp menggunakan API kami
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <img src="asset/img/main/Group 295.png" style="max-width: 100%">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="basic-1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <div style="width:80px; height: 8px; background-color:rgba(0,0,0,.5);margin:auto;border-radius: 1px;" class="my-5"></div>
+                        <h3>
+                            WhatsApp API Gateway
+                        </h3>
+                        <p>
+                            Migrasikan WhatsApp Bot dengan Bot melalui API
+                    </div>
+
+                    <div class="col-12">
+                        <img src="asset/img/main/image 31.png" style="max-width: 100%">
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="bg-grey2" style="padding:50px 10px">
             <div class="basic-1">
                 <div class="container">
                     <div class="row">
                         <div class="col mt-5 mb-5 text-center">
                             <p>
-                                <span style="font:900  45px 'Roboto';">
-                                <!-- <span style="color: #F16E17"> -->
-                                <!-- </span> -->
+                                <h1 style="">
                                     Gunakan WhatsApp Bot Sekarang Juga
-                                </span>
+                                </h1>
                             </p>
                         </div>
                         <div class="col-md-12 my-md-5 my-sm-0 text-center">
@@ -260,7 +319,7 @@
                             </div>
                         </div>
                         <div class="col-md-12 mt-5 mb-5">
-                            <div class="row text-center" style="font-size:22px">
+                            <div class="row text-center" style="">
                                 <div class="col-md-4">
                                     <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
                                 <div class="col-md-4">
@@ -269,7 +328,7 @@
                                     <i class="fas fa-check"></i> Trial 14 Hari</div>
                             </div>
 
-                            <!-- <div class="row hidden-md-up" style="font-size:22px">
+                            <!-- <div class="row hidden-md-up" style="">
                                 <div class="col-md-4">
                                     <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
                                 <div class="col-md-4">
@@ -291,63 +350,64 @@
             <div class="mx-md-5 mx-sm-0">
                 <div class="row mx-5">
                     <div class="col-12 text-center mb-4">
-                        <h1 class="fs-48">Harga Paket WhatsApp Bot</h1>
+                    <div style="width:80px; height: 8px; background-color:rgba(0,0,0,.5);margin:auto;border-radius: 1px;" class="my-5"></div>
+                        <h1 class="">Harga Paket WhatsApp Bot</h1>
                     </div>
                     <div class="col d-flex flex-row justify-content-center">
                         <div class="row" style="min-height: 500px">
                             <div class="col m-1">
-                                <div class="card" style="border-color: #3C7C2A; border-radius: 20px; border-width: 2px; height: 100%">
+                                <div class="card" style="border-color: #1EBEA5;  border-width: 2px; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
-                                        <div class="py-4" style="font-size: 28px; font-family:'Roboto'; font-weight: 900">Whatsapp Pro</div>
+                                        <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Whatsapp Pro</div>
                                         <div class="py-4">
                                             <img src="asset/img/main/Group 175.png" style="max-width: 100%">
                                         </div>
                                         <div style="font-family: 'Roboto'">
                                             <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="font-size: 45px; font-weight: 900">21.780</span>000 Per Tahun
+                                            <span style="; font-weight: 900">21.780</span>000 Per Tahun
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col m-1">
-                                <div class="card" style="border-color: #3C7C2A; border-radius: 20px; border-width: 2px; height: 100%">
+                                <div class="card" style="border-color: #1EBEA5;  border-width: 2px; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
-                                        <div class="py-4" style="font-size: 28px; font-family:'Roboto'; font-weight: 900">Nomor Whatsapp Verified</div>
+                                        <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Nomor Whatsapp Verified</div>
                                         <div class="py-4">
                                             <img src="asset/img/main/Group 175.png" style="max-width: 100%">
                                         </div>
                                         <div style="font-family: 'Roboto'">
                                             <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="font-size: 45px; font-weight: 900">27.790.</span>000 Per Tahun
+                                            <span style="; font-weight: 900">27.790.</span>000 Per Tahun
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col m-1">
-                                <div class="card text-white" style="border-color: #3C7C2A; border-radius: 20px; border-width: 2px; background-color: #3C7C2A; height: 100%">
+                                <div class="card text-white" style="border-color: #1EBEA5; border-width: 2px; background-color: #1EBEA5; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
-                                        <div class="py-4" style="font-size: 28px; font-family:'Roboto'; font-weight: 900">Whatsapp Pro Plus</div>
+                                        <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Whatsapp Pro Plus</div>
                                         <div class="py-4">
                                             <img src="asset/img/main/Group 182.png" style="max-width: 100%">
                                         </div>
                                         <div style="font-family: 'Roboto'">
                                             <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="font-size: 45px; font-weight: 900">42.240.</span>000 Per Tahun
+                                            <span style="; font-weight: 900">42.240.</span>000 Per Tahun
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col m-1">
-                                <div class="card" style="border-color: #3C7C2A; border-radius: 20px; border-width: 2px; height: 100%">
+                                <div class="card" style="border-color: #1EBEA5; border-width: 2px; height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center">
-                                        <div class="py-4" style="font-size: 28px; font-family:'Roboto'; font-weight: 900">Custom Bot</div>
+                                        <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Custom Bot</div>
                                         <div class="py-4">
                                             <img src="asset/img/main/Group 249.png" style="max-width: 100%">
                                         </div>
-                                        <div style="font-family: 'Roboto'; font-size:30px;font-weight:900">
+                                        <div style="font-family: 'Roboto'; ;font-weight:900">
                                             Fitur WhatsApp Bot Sesuai Yang Di Inginkan
                                         </div>
                                     </div>
@@ -376,7 +436,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <h1 style="font-size:45px;">Fitur Paket WhatsApp Bot</h1>
+                        <h1 style=";">Fitur Paket WhatsApp Bot</h1>
                         <p>
                             Temukan perbedaan dari setiap paket individu dan pelajari lebih lanjut tentang produk kami
                         </p>
@@ -489,7 +549,7 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col pb-gl-5 pb-sm-0">
-                                        <h1 class="text-center hidden-md-down" style="font-size:48px;">Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
+                                        <h1 class="text-center hidden-md-down" style=";">Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
                                         <h1 class="text-center hidden-md-up" >Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
                                     </div>
                                     <div class="w-100"></div>
@@ -629,7 +689,7 @@
                         </div>
                     </div>
                     <div class="col-md-12 mt-5 mb-5 text-center">
-                        <span style="color: #F16E17; font-size: 25px; font-weight:900">
+                        <span style="color: #F16E17; ; font-weight:900">
                             Pengguna Lainnya <i class="fas fa-chevron-right"></i>
                         </span>
                     </div>
