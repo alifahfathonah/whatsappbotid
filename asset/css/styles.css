@@ -82,7 +82,7 @@ body, p {
 
 h1 {
 	color: #393939;
-	font: 700 4rem/3.5rem "Raleway", sans-serif;
+	font: 700 3rem "Raleway", sans-serif;
 }
 
 h2 {
@@ -794,7 +794,7 @@ input[type='checkbox'] {
 
 .header h1 {
 	margin-bottom: 1.125rem;
-	font-size: 2.5rem;
+	font-size: 2rem;
 	line-height: 3.125rem;
 }
 
@@ -1560,8 +1560,8 @@ input[type='checkbox'] {
 a.back-to-top {
 	position: fixed;
 	z-index: 999;
-	right: 0.75rem;
-	bottom: 0.75rem;
+	right: calc(180px + 1rem);
+	bottom: 1.75rem;
 	display: none;
 	width: 2.625rem;
 	height: 2.625rem;
@@ -1670,7 +1670,7 @@ a:hover.back-to-top {
 	}
 
 	.header h1 {
-		font-size: 4rem;
+		font-size: 3rem;
 		line-height: 4.5rem;
 	}
 	/* end of header */
@@ -2353,6 +2353,9 @@ a:hover{
 }
 
 @media (max-width: 991px) {
+	.header{
+		margin-top:120px;
+	}
     .hidden-md-down {
         display: none!important;
 	}
@@ -2383,4 +2386,21 @@ a:hover{
 
 .border-r{
 	border-right:1px solid #dee2e6;
+}
+
+.fixed-bottom-message {
+	border-radius: 30px;
+	/* padding: 10px; */
+	background-color: #35E45D;
+	position: fixed;
+	bottom: 1rem;
+	right: 1rem;
+	height: auto;
+	transition: .3s;
+	cursor: pointer;
+	z-index: 1000;
+}
+
+.fixed-bottom-message:hover{
+	opacity: .7;
 }

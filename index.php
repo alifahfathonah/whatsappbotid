@@ -35,6 +35,12 @@
     <link rel="icon" href="asset/img/main/LogoOnly.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
+    <a href="https://wa.me/14243837788?text=Saya%20mau%20tanya%20tentang%20EVA" class="btn btn-orange" style="border-radius: 2em" target="_blank">
+        <div class="fixed-bottom-message px-4 py-3 align-items-center text-white">
+            <img src="asset/img/main/Vector.png" width="35px" />
+            Message Us
+        </div>
+    </a>
     <a href="body" class="back-to-top page-scroll">Back to Top</a>
 
 	<div class="spinner-wrapper" style="display: none;">
@@ -47,7 +53,7 @@
 
     <div style="width: 100vw">
         <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top" style="background-color:#1EBEA5">
-            <a class="navbar-brand logo-image" href="/"><img src="asset/images/Icon.png" alt="whatsappbotid_logo" style="height:50px;width:auto"></a>
+            <a class="navbar-brand logo-image" href="/"><img src="asset/img/main/Logo White.png" alt="whatsappbotid_logo" style="width: 250px;max-width: 100%"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-awesome fas fa-bars"></span>
                 <span class="navbar-toggler-awesome fas fa-times"></span>
@@ -75,20 +81,20 @@
                 </ul>
             </div>
         </nav>
-        <header id="header" class="header" style="padding-top: 150px">
+        <div id="header" class="header">
             <div class="container p-lg-5">
-                <div class="row p-lg-5 my-lg-5">
+                <div class="row p-lg-5 my-lg-5 my-sm-0">
                     <div class="col-lg-6">
                         <div class="text-container text-center hidden-md-up">
                             <h1>Whatsapp Bot Creator</h1>
                             <p class="p-large">Real Time 24 Jam Melayani Pelanggan</p>
-                            <a class="btn-solid-lg mb-3" href="https://admin.eva.id/wabot/register.php">Buat WhatsApp Bot Sekarang</a> <br>
+                            <a class="btn-solid-lg mb-3 btn-block text-center" href="https://admin.eva.id/wabot/register.php">Free Trial</a> <br>
                             <img class="img-fluid mt-2" src="asset/images/pengalaman.png">
                         </div>
                         <div class="text-container hidden-md-down ">
                             <h1>Whatsapp Bot Creator</h1>
                             <p class="p-large">Real Time 24 Jam Melayani Pelanggan</p>
-                            <a class="btn-solid-lg mb-3" href="https://admin.eva.id/wabot/register.php">Buat WhatsApp Bot Sekarang</a> <br>
+                            <a class="btn-solid-lg mb-3 btn-block text-center" href="https://admin.eva.id/wabot/register.php">Free Trial</a> <br>
                             <img class="img-fluid mt-2" src="asset/images/pengalaman.png">
                         </div>
                     </div>
@@ -99,7 +105,7 @@
                     </div>
                 </div>
             </div>
-        </header>
+        </div>
         <div class="bg-layanan" style="padding:90px 10px">
             <div id="services" class="cards-1">
                 <div class="container">
@@ -149,53 +155,6 @@
             </div>
         </div>
 
-        <div class="bg-grey" style="padding:90px 10px">
-            <div class="basic-1">
-                <div class="container">
-                    <div class="row">
-                        <div class="col mt-5 mb-5 text-center">
-                            <p>
-                                <span style="font:900  45px 'Roboto';">
-                                <!-- <span style="color: #F16E17"> -->
-                                <!-- </span> -->
-                                    Gunakan WhatsApp BotSekarang Juga
-                                </span>
-                            </p>
-                        </div>
-                        <div class="col-md-12 my-md-5 my-sm-0 text-center">
-                            <div>
-                                <a href="https://admin.eva.id/wabot/register.php">
-                                    <button class="btn btn-homepage">
-                                        <img src="asset/img/main/android.png" class="m-1" width="14px">
-                                        BUAT WHATSAPP BOT SEKARANG
-                                    </button>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-12 mt-5 mb-5">
-                            <div class="row text-center" style="font-size:22px">
-                                <div class="col-md-4">
-                                    <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
-                                <div class="col-md-4">
-                                    <i class="fas fa-check"></i> Statistik &amp; Laporan Detail</div>
-                                <div class="col-md-4">
-                                    <i class="fas fa-check"></i> Trial 14 Hari</div>
-                            </div>
-
-                            <!-- <div class="row hidden-md-up" style="font-size:22px">
-                                <div class="col-md-4">
-                                    <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
-                                <div class="col-md-4">
-                                    <i class="fas fa-check"></i> Statistik &amp; Laporan Detail</div>
-                                <div class="col-md-4">
-                                    <i class="fas fa-check"></i> Trial 14 Hari</div>
-                            </div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <div class="basic-1 bg-diag-right">
             <div class="container">
                 <div class="row">
@@ -235,7 +194,7 @@
             </div>
         </div>
 
-        <div class="basic-1 bg-grey2 mb-5">
+        <div class="basic-1 bg-grey mb-5">
             <div class="container pt-5 pb-5">
                 <div class="row pt-5">
                     <div class="col text-center">
@@ -275,6 +234,58 @@
                 </div>
             </div>
         </div>
+
+        <div class="bg-grey2" style="padding:50px 10px">
+            <div class="basic-1">
+                <div class="container">
+                    <div class="row">
+                        <div class="col mt-5 mb-5 text-center">
+                            <p>
+                                <span style="font:900  45px 'Roboto';">
+                                <!-- <span style="color: #F16E17"> -->
+                                <!-- </span> -->
+                                    Gunakan WhatsApp Bot Sekarang Juga
+                                </span>
+                            </p>
+                        </div>
+                        <div class="col-md-12 my-md-5 my-sm-0 text-center">
+                            <div>
+                                <a href="https://admin.eva.id/wabot/register.php">
+                                    <button class="btn btn-homepage" style="width: 50%">
+                                        <!-- <img src="asset/img/main/android.png" class="m-1" width="14px"> -->
+                                        <!-- BUAT WHATSAPP BOT SEKARANG -->
+                                        Free Trial
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 mt-5 mb-5">
+                            <div class="row text-center" style="font-size:22px">
+                                <div class="col-md-4">
+                                    <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
+                                <div class="col-md-4">
+                                    <i class="fas fa-check"></i> Statistik &amp; Laporan Detail</div>
+                                <div class="col-md-4">
+                                    <i class="fas fa-check"></i> Trial 14 Hari</div>
+                            </div>
+
+                            <!-- <div class="row hidden-md-up" style="font-size:22px">
+                                <div class="col-md-4">
+                                    <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
+                                <div class="col-md-4">
+                                    <i class="fas fa-check"></i> Statistik &amp; Laporan Detail</div>
+                                <div class="col-md-4">
+                                    <i class="fas fa-check"></i> Trial 14 Hari</div>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+
+        
 
         <div id="harga" class="basic-1">
             <div class="mx-md-5 mx-sm-0">
@@ -360,7 +371,7 @@
             </div>
         </div>
 
-        <div id="fitur" class="basic-1 bg-diag-right-top">
+        <!-- <div id="fitur" class="basic-1 bg-diag-right-top">
             <div style="margin-top:100px;"></div>
             <div class="container">
                 <div class="row">
@@ -458,21 +469,6 @@
                                     <i class="fas fa-check"></i>
                                 </td>
                             </tr>
-                            <!-- <tr>
-                                <td class="border-lr">Kuota Siaran</td>
-                                <td>Rp.490 / Push</td>
-                                <td class="border-lr">Rp.490 / Push</td>
-                            </tr>
-                            <tr>
-                                <td class="border-lr">Bisnis Akun (WhatsApp)</td>
-                                <td>Termasuk</td>
-                                <td class="border-lr">Termasuk</td>
-                            </tr>
-                            <tr class="border-b">
-                                <td class="border-lr">Biaya Integrasi (On Time)</td>
-                                <td>Rp.1.500.000</td>
-                                <td class="border-lr">Rp.1.500.000</td>
-                            </tr> -->
                         </table>
                         <p class="text-center">
                             <b>* MAU</b> : Montly Active User (Jumlah Nomor Yang Chat Dengan ChatBot).
@@ -483,30 +479,24 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <div class="basic-1" id="klien">
-            <div class="p-md-5 p-sm-2">
-                <div class="w-100 py-5" style="background:url('asset/img/main/Group 243.png') no-repeat; background-size: cover; background-position: top center;">
-                    <div class="container py-5">
-                        <div class="card py-5">
-                            <div class="card-body p-sm-0 p-md-5">
+            <div class="p-md-5 p-sm-1">
+                <div class="w-100 py-lg-5 py-sm-0">
+                    <div class="container py-lg-5 py-md-5 py-sm-0">
+                        <div class="py-lg-5 py-md-5 py-sm-0">
+                            <div class="card-body">
                                 <div class="row">
-                                    <div class="col">
+                                    <div class="col pb-gl-5 pb-sm-0">
                                         <h1 class="text-center hidden-md-down" style="font-size:48px;">Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
                                         <h1 class="text-center hidden-md-up" >Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
                                     </div>
                                     <div class="w-100"></div>
-                                    <div class="col">
-                                        <div style="position:absolute;left:0;top:-50px;">
-                                            <img src="asset/img/main/kutip.png" width="50px" />
-                                        </div>
-                                        <div class="m-5 m-sm-0 text-center">
-                                            <p style="font-size:31px" class="hidden-md-down">
-                                            “Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
-                                            </p>
-                                            <p style="" class="hidden-md-up">
-                                            “Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
+                                    <div class="col-lg-6 col-sm-12 my-3">
+                                        <div class="d-flex flex-column justify-content-between m-lg-3 text-center h-100 p-4" style="border:1px solid #000; border-radius: 40px;">
+                                            <p>
+                                                “Teknologi chatbot ini membuat menjadi lebih efisien dalam waktu ataupun biaya dan juga kebutuhan anggota dapat terlayani 24 jam tanpa menunggu lama, semuanya dapat terpenuhi”
                                             </p>
                                             <p>
                                                 - <b>Iip Saripudin</b> At Bendahara Koperasi Perbendaharaan Kementrian Keuangan
@@ -514,16 +504,10 @@
                                         </div>
                                     </div>
 
-                                    <div class="col">
-                                        <div style="position:absolute;right:0;bottom:0;">
-                                            <img src="asset/img/main/kutip.png" width="50px" style="transform:rotate(180deg)" />
-                                        </div>
-                                        <div class="m-5 m-sm-0 text-center">
-                                            <p style="font-size:31px" class="hidden-md-down">
-                                            “Chatbot EVA bisa digunakana di banyak Platform. Saya menggunakan EVA karena performa resopnnya sangat baik juga harganya bersahabat..”
-                                            </p>
-                                            <p style="" class="hidden-md-up">
-                                            “Chatbot EVA bisa digunakana di banyak Platform. Saya menggunakan EVA karena performa resopnnya sangat baik juga harganya bersahabat..”
+                                    <div class="col-lg-6 col-sm-12 my-3">
+                                        <div class="d-flex flex-column justify-content-between m-lg-3 text-center h-100 p-5" style="border:1px solid #000; border-radius: 40px;">
+                                            <p>
+                                                “Chatbot EVA bisa digunakana di banyak Platform. Saya menggunakan EVA karena performa resopnnya sangat baik juga harganya bersahabat..”
                                             </p>
                                             <p>
                                                 - <b>Heri Riyanto</b> At IT Analyst PT. Sasa Inti
