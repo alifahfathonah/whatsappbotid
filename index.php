@@ -62,7 +62,7 @@
             <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link h6 page-scroll font-weight-bold text-white" href="#fitur">Fitur <span class="sr-only">(current)</span></a>
+                        <a class="nav-link h6 page-scroll font-weight-bold text-white" href="#harga">Fitur <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link h6 page-scroll font-weight-bold text-white" href="#harga">Harga</a>
@@ -132,18 +132,22 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="text-container">
+                        <div class="text-container hidden-md-down">
+                            <h1>
+                                Mengisi Dan Mengelola Pengetahuan dengan Mudah
+                            </h1>
                             <p>
-                                </p>
-                                    <h1>
-                                        <span style="color: #000000;">
-                                            Mengisi Dan Mengelola Pengetahuan dengan Mudah
-                                        </span>
-                                    </h1>
-                                <p>
-                                    Kamu dapat mengisi dan memperbaharui pengetahuan WhatsApp Bot dengan mudah.
-                                </p>
-                            <p></p>
+                                Kamu dapat mengisi dan memperbaharui pengetahuan WhatsApp Bot dengan mudah.
+                            </p>
+                        </div>
+
+                        <div class="text-container hidden-md-up text-center">
+                            <h1>
+                                Mengisi Dan Mengelola Pengetahuan dengan Mudah
+                            </h1>
+                            <p>
+                                Kamu dapat mengisi dan memperbaharui pengetahuan WhatsApp Bot dengan mudah.
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -214,14 +218,19 @@
                 <div class="row">
                     <div class="col-lg-6 d-flex align-items-center">
                         <div class="image-container">
-                            <div>
+                            <div class="hidden-md-down">
+                                <h1>
+                                    Reporting dan Monitoring secara RealTime
+                                </h1>
                                 <p>
-                                    </p><h1 style="">
-                                        <span class="">Reporting</span> dan Monitoring secara RealTime
-                                    </h1>
-                                <p></p>
+                                Laporan kinerja WhatsApp Bot dan Customer Service yang mengelolanya bisa dipantau secara realtime meliputi laporan :
+                                </p>
                             </div>
-                            <div>
+
+                            <div class="hidden-md-up text-center">
+                                <h1>
+                                    Reporting dan Monitoring secara RealTime
+                                </h1>
                                 <p>
                                 Laporan kinerja WhatsApp Bot dan Customer Service yang mengelolanya bisa dipantau secara realtime meliputi laporan :
                                 </p>
@@ -238,18 +247,24 @@
         <div class="basic-1">
             <div class="container">
                 <div class="row">
+                    <div class="col-lg-6 d-flex flex-column align-items-center justify-content-center text-center hidden-md-up">
+                        <div>
+                            <h1>
+                                Nomor WhatsApp Verified
+                            </h1>
+                            Anda Akan Mendapatkan Nomor WhatsApp Verified Setelah Registrasi di WhatsApp Bot
+                        </div>
+                    </div>
                     <div class="col-lg-6">
                         <img src="asset/img/main/Group 292.png" style="max-width: 100%">
                     </div>
-                    <div class="col-lg-6 d-flex flex-column align-items-center justify-content-center text-right">
-                            <div>
-                                <h1 style="">
-                                    Nomor WhatsApp Verified
-                                </h1>
-                            </div>
-                            <div>
-                                Anda Akan Mendapatkan Nomor WhatsApp Verified Setelah Registrasi di WhatsApp Bot
-                            </div>
+                    <div class="col-lg-6 d-flex flex-column align-items-center justify-content-center text-right hidden-md-down">
+                        <div>
+                            <h1 style="">
+                                Nomor WhatsApp Verified
+                            </h1>
+                            Anda Akan Mendapatkan Nomor WhatsApp Verified Setelah Registrasi di WhatsApp Bot
+                        </div>
                     </div>
                 </div>
             </div>
@@ -260,13 +275,22 @@
                 <div class="row">
                     <div class="col-lg-6 d-flex align-items-center">
                         <div class="image-container">
-                            <div>
+                            <div class="hidden-md-down">
                                 <h1>
                                     Mengirimkan Notifikasi Di WhatsApp
                                 </h1>
+                                <p>
+                                    Kirim pembaruan Notifikasi, pengingat pengiriman, pengingat pembayaran, dan Notifikasi lainnya di WhatsApp menggunakan API kami
+                                </p>
                             </div>
-                            <div>
-                                Kirim pembaruan Notifikasi, pengingat pengiriman, pengingat pembayaran, dan Notifikasi lainnya di WhatsApp menggunakan API kami
+
+                            <div class="hidden-md-up text-center py-3">
+                                <h1>
+                                    Mengirimkan Notifikasi Di WhatsApp
+                                </h1>
+                                <p>
+                                    Kirim pembaruan Notifikasi, pengingat pengiriman, pengingat pembayaran, dan Notifikasi lainnya di WhatsApp menggunakan API kami
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -310,32 +334,25 @@
                         <div class="col-md-12 my-md-5 my-sm-0 text-center">
                             <div>
                                 <a href="https://admin.eva.id/wabot/register.php">
-                                    <button class="btn btn-homepage" style="width: 50%">
-                                        <!-- <img src="asset/img/main/android.png" class="m-1" width="14px"> -->
-                                        <!-- BUAT WHATSAPP BOT SEKARANG -->
+                                    <button class="btn btn-homepage hidden-md-down" style="width: 50%">
+                                        Free Trial
+                                    </button>
+
+                                    <button class="btn btn-homepage hidden-md-up btn-block">
                                         Free Trial
                                     </button>
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-12 mt-5 mb-5">
-                            <div class="row text-center" style="">
-                                <div class="col-md-4">
+                            <div class="row text-center">
+                                <div class="col-lg-4 col-sm-12">
                                     <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
-                                <div class="col-md-4">
+                                <div class="col-lg-4 col-sm-12">
                                     <i class="fas fa-check"></i> Statistik &amp; Laporan Detail</div>
-                                <div class="col-md-4">
+                                <div class="col-lg-4 col-sm-12">
                                     <i class="fas fa-check"></i> Trial 14 Hari</div>
                             </div>
-
-                            <!-- <div class="row hidden-md-up" style="">
-                                <div class="col-md-4">
-                                    <i class="fas fa-check"></i> Pengelolaan sangat mudah</div>
-                                <div class="col-md-4">
-                                    <i class="fas fa-check"></i> Statistik &amp; Laporan Detail</div>
-                                <div class="col-md-4">
-                                    <i class="fas fa-check"></i> Trial 14 Hari</div>
-                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -443,50 +460,6 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <!-- <div class="col m-1">
-                                <div class="card" style="border-color: #1EBEA5;  border-width: 2px; height: 100%">
-                                    <div class="card-body d-flex flex-column text-center justify-content-center">
-                                        <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Nomor Whatsapp Verified</div>
-                                        <div class="py-4">
-                                            <img src="asset/img/main/Group 175.png" style="max-width: 100%">
-                                        </div>
-                                        <div style="font-family: 'Roboto'">
-                                            <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="; font-weight: 900">27.790.</span>000 Per Tahun
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
-
-                            <!-- <div class="col m-1">
-                                <div class="card text-white" style="border-color: #1EBEA5; border-width: 2px; background-color: #1EBEA5; height: 100%">
-                                    <div class="card-body d-flex flex-column text-center justify-content-center">
-                                        <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Whatsapp Pro Plus</div>
-                                        <div class="py-4">
-                                            <img src="asset/img/main/Group 182.png" style="max-width: 100%">
-                                        </div>
-                                        <div style="font-family: 'Roboto'">
-                                            <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="; font-weight: 900">42.240.</span>000 Per Tahun
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
-
-                            <!-- <div class="col m-1">
-                                <div class="card" style="border-color: #1EBEA5; border-width: 2px; height: 100%">
-                                    <div class="card-body d-flex flex-column text-center justify-content-center">
-                                        <div class="py-4" style="; font-family:'Roboto'; font-weight: 900">Custom Bot</div>
-                                        <div class="py-4">
-                                            <img src="asset/img/main/Group 249.png" style="max-width: 100%">
-                                        </div>
-                                        <div style="font-family: 'Roboto'; ;font-weight:900">
-                                            Fitur WhatsApp Bot Sesuai Yang Di Inginkan
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
 
                         </div>
                     </div>
@@ -623,7 +596,7 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col pb-gl-5 pb-sm-0">
-                                        <h1 class="text-center hidden-md-down" style=";">Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
+                                        <h1 class="text-center hidden-md-down">Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
                                         <h1 class="text-center hidden-md-up" >Pesan dari beberapa klien sebagai testimoni terhadap Eva.Id</h1>
                                     </div>
                                     <div class="w-100"></div>
