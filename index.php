@@ -310,7 +310,7 @@
                             WhatsApp API Gateway
                         </h3>
                         <p>
-                            Migrasikan WhatsApp Bot dengan Bot melalui API
+                            Tersedia Layanan Integrasi dengan eksisting sistem anda melalui API
                     </div>
 
                     <div class="col-12">
