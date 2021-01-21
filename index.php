@@ -372,22 +372,23 @@
                             <div class="col-lg-3 col-sm-12 my-2">
                                 <div class="card" style="height: 100%">
                                     <div class="card-body d-flex flex-column text-center justify-content-center" style="border: 1px solid #1EBEA5;">
-                                        <div class="py-4" style="font-family:'Roboto'; font-weight: 900">Chatbot Tanpa WA</div>
+                                        <div class="py-4" style="font-family:'Roboto'; font-weight: 900">Chatbot Bisnis (Non WA)</div>
                                         <div class="py-4">
                                             <img src="asset/img/main/eva bot 1.png" style="max-width: 100%;min-height: 143px;">
                                         </div>
                                         <div style="font-family: 'Roboto'">
                                             <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="font-weight:900">15.900.</span>000 Per Tahun
+                                            <span style="font-weight:900">275.</span>000 Per Bulan
                                         </div>
                                     </div>
                                     <div class="card-body" style="border: 1px solid #1EBEA5;">
                                         <ul class="list-group list-group-flush">
-                                            <li class="list-group-item">Cras justo odio</li>
-                                            <li class="list-group-item">Dapibus ac facilisis in</li>
-                                            <li class="list-group-item">Morbi leo risus</li>
-                                            <li class="list-group-item">Porta ac consectetur ac</li>
-                                            <li class="list-group-item">Vestibulum at eros</li>
+                                            <li class="list-group-item">WA <i class="fas fa-times text-danger"></i></li>
+                                            <li class="list-group-item">Telegram <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Web Widget <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Line <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Apps <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">API <i class="fas fa-times text-danger"></i></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -429,7 +430,7 @@
                                         </div>
                                         <div style="font-family: 'Roboto'">
                                             <sup style="position: relative;top: -30px">Rp</sup>
-                                            <span style="font-weight: 900">21.780.</span>000 Per Tahun
+                                            <span style="font-weight: 900">42.240.</span>000 Per Tahun
                                         </div>
                                     </div>
                                     <div class="card-body" style="border: 1px solid #1EBEA5;">
