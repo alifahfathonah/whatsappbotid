@@ -124,7 +124,8 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-12">
-                            <img src="asset/img/main/Gambar1_.png" style="max-width: 100%" width="1000px">
+                            <img src="asset/img/main/Gambar1_.png" class="hidden-md-down" style="max-width: 100%" width="100%" />
+                            <img src="asset/img/main/Group 272.png" class="hidden-md-up" style="max-width: 100%" width="100%" />
                         </div>
                     </div>
                 </div>
