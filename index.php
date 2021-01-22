@@ -32,7 +32,7 @@
 
     <link href="asset/css/styles.css" rel="stylesheet">
 
-    <link rel="icon" href="asset/img/main/LogoOnly.png">
+    <link rel="icon" href="asset/img/main/eva logo.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     <a href="https://wa.me/14243837788?text=Saya%20mau%20tanya%20tentang%20EVA" target="_blank">
