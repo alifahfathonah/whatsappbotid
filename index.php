@@ -84,7 +84,7 @@
             </div>
         </nav>
 
-        <div id="header" class="header" style="margin-top: 120px">
+        <div id="header" class="header" style="padding-top: 120px">
             <div class="container p-lg-5">
                 <div class="row p-lg-5 my-lg-5 my-sm-0">
                     <div class="col-lg-6">
