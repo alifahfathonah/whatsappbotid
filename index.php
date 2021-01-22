@@ -53,7 +53,9 @@
 
     <div style="width: 100vw">
         <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top" style="background-color:#1EBEA5">
-            <a class="navbar-brand logo-image" href="/"><img src="asset/img/main/Logo White.png" alt="whatsappbotid_logo" style="width: 250px;max-width: 100%"></a>
+            <a class="navbar-brand logo-image" href="/"><img src="asset/img/main/eva logo.png" alt="whatsappbotid_logo" style="height: 40px; max-height: 100%;width: auto">
+            WhatsApp BOT    
+            </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-awesome fas fa-bars"></span>
                 <span class="navbar-toggler-awesome fas fa-times"></span>
@@ -81,7 +83,8 @@
                 </ul>
             </div>
         </nav>
-        <div id="header" class="header">
+
+        <div id="header" class="header" style="margin-top: 120px">
             <div class="container p-lg-5">
                 <div class="row p-lg-5 my-lg-5 my-sm-0">
                     <div class="col-lg-6">
