@@ -53,7 +53,7 @@
 
     <div style="width: 100vw">
         <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top" style="background-color:#1EBEA5">
-            <a class="navbar-brand logo-image" href="/"><img src="asset/img/main/eva logo.png" alt="whatsappbotid_logo" style="height: 40px; max-height: 100%;width: auto">
+            <a class="navbar-brand logo-image mt-1" href="/"><img src="asset/img/main/eva logo.png" alt="whatsappbotid_logo" style="height: 40px; max-height: 100%;width: auto">
             WhatsApp BOT    
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
