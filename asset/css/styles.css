@@ -2404,6 +2404,7 @@ a:hover{
 	transition: .3s;
 	cursor: pointer;
 	z-index: 1000;
+	display: block;
 }
 
 .fixed-bottom-message:hover{
