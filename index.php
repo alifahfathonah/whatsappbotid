@@ -208,7 +208,7 @@
                     <div class="col text-center">
                         <p>
                             </p><h1 class="">
-                                Whatsapp Bot memiliki sistem Ticketing untuk memudahkan antrian pelayanan pelanggan oleh customer service.
+                                Whatsapp Bot memiliki Ticketing Sistem untuk memudahkan antrian pelayanan pelanggan oleh customer service.
                             </h1>
                         <p></p>
                         <img src="asset/img/main/Gambar2_.png" style="max-width: 100%">
@@ -387,20 +387,23 @@
                                     </div>
                                     <div class="card-body" style="border: 1px solid #1EBEA5;">
                                         <ul class="list-group list-group-flush">
-                                            <li class="list-group-item">Quota MAU WA <i class="fas fa-times text-danger"></i></li>
-                                            <li class="list-group-item">3.000 Chatbot Chat/Bulan <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">1 User Admin/Operator <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">WA Broadcast Rp.490/Push <i class="fas fa-times text-danger"></i></li>
-                                            <li class="list-group-item">Registrasi WA Verified <i class="fas fa-times text-danger"></i></li>
-                                            <li class="list-group-item">Ticket LiveChat <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Dashboard Management <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Integrasi Messenger <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">WA <i class="fas fa-times text-danger"></i></li>
                                             <li class="list-group-item">Telegram <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Web Widget <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Line <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Apps <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">API <i class="fas fa-times text-danger"></i></li>
+                                        </ul>
+                                        <div class="mt-3"></div>
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">Quota MAU WA <i class="fas fa-times text-danger"></i></li>
+                                            <li class="list-group-item">3.000 Chatbot Chat/Bulan <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">1 User Admin/Operator <i class="fas fa-check text-success"></i></li>
+                                            <!-- <li class="list-group-item">WA Broadcast Rp.490/Push <i class="fas fa-times text-danger"></i></li> -->
+                                            <li class="list-group-item">Registrasi WA Verified <i class="fas fa-times text-danger"></i></li>
+                                            <li class="list-group-item">Ticket LiveChat <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Dashboard Management <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Integrasi API ke Sistem lain <i class="fas fa-times text-danger"></i></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -420,20 +423,23 @@
                                     </div>
                                     <div class="card-body" style="border: 1px solid #1EBEA5;">
                                         <ul class="list-group list-group-flush">
-                                            <li class="list-group-item">1.000 Quota MAU WA <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">3.000 Chatbot Chat/Bulan <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">1 User Admin/Operator <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">WA Broadcast Rp.490/Push <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Registrasi WA Verified <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Ticket LiveChat <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Dashboard Management <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Integrasi Messenger <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">WA <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Telegram <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Web Widget <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Line <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Apps <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">API <i class="fas fa-times text-danger"></i></li>
+                                        </ul>
+                                        <div class="mt-3"></div>
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">1.000 Quota MAU WA <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">3.000 Chatbot Chat/Bulan <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">1 User Admin/Operator <i class="fas fa-check text-success"></i></li>
+                                            <!-- <li class="list-group-item">WA Broadcast Rp.490/Push <i class="fas fa-check text-success"></i></li> -->
+                                            <li class="list-group-item">Registrasi WA Verified <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Ticket LiveChat <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Dashboard Management <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Integrasi API ke Sistem lain <i class="fas fa-times text-danger"></i></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -452,21 +458,24 @@
                                         </div>
                                     </div>
                                     <div class="card-body" style="border: 1px solid #1EBEA5;">
-                                        <ul class="list-group list-group-flush">
-                                            <li class="list-group-item">3.000 Quota MAU WA <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">6.000 Chatbot Chat/Bulan <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">2 User Admin/Operator <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">WA Broadcast Rp.490/Push <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Registrasi WA Verified <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Ticket LiveChat <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Dashboard Management <i class="fas fa-check text-success"></i></li>
+                                    <ul class="list-group list-group-flush">
                                             <li class="list-group-item">Integrasi Messenger <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">WA <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Telegram <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Web Widget <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Line <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Apps <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">API <i class="fas fa-times text-danger"></i></li>
+                                        </ul>
+                                        <div class="mt-3"></div>
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">3.000 Quota MAU WA <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">6.000 Chatbot Chat/Bulan <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">2 User Admin/Operator <i class="fas fa-check text-success"></i></li>
+                                            <!-- <li class="list-group-item">WA Broadcast Rp.490/Push <i class="fas fa-check text-success"></i></li> -->
+                                            <li class="list-group-item">Registrasi WA Verified <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Ticketing System <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Dashboard Management <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Integrasi API ke Sistem lain <i class="fas fa-times text-danger"></i></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -479,9 +488,23 @@
                                         <div class="py-4">
                                             <img src="asset/img/main/Group 249.png" style="max-width: 100%">
                                         </div>
+                                        <div style="font-family: 'Roboto'">
+                                            <!-- <sup style="position: relative;top: -30px">Rp</sup> -->
+                                            <b>Let's Discuss</b>
+                                            <!-- <span style="font-weight:900">275.</span>000 Per Bulan -->
+                                        </div>
                                     </div>
-                                    <div class="card-body d-flex justify-content-center align-items-center" style="border: 1px solid #1EBEA5;">
+                                    <div class="card-body" style="border: 1px solid #1EBEA5;">
                                         <!-- <a href="https://wa.me/14243837788?text=Saya%20mau%20tanya%20tentang%20EVA" class="btn btn-orange" style="border-radius: 2em">Kontak Tim Kami</a> -->
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">Integrasi Messenger <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">WA <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Telegram <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Web Widget <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Line <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Apps <i class="fas fa-check text-success"></i></li>
+                                        </ul>
+                                        <div class="mt-3"></div>
                                         <ul class="list-group list-group-flush">
                                             <li class="list-group-item">More Quota MAU WA <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">More Chatbot Chat/Bulan <i class="fas fa-check text-success"></i></li>
@@ -490,13 +513,7 @@
                                             <li class="list-group-item">Registrasi WA Verified <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Ticket LiveChat <i class="fas fa-check text-success"></i></li>
                                             <li class="list-group-item">Dashboard Management <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Integrasi Messenger <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">WA <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Telegram <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Web Widget <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Line <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">Apps <i class="fas fa-check text-success"></i></li>
-                                            <li class="list-group-item">API <i class="fas fa-check text-success"></i></li>
+                                            <li class="list-group-item">Integrasi API ke Sistem lain <i class="fas fa-check text-success"></i></li>
                                         </ul>
                                     </div>
                                 </div>
