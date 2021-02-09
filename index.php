@@ -35,7 +35,7 @@
     <link rel="icon" href="asset/img/main/eva logo.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
-    <a href="https://wa.me/14243837788?text=Saya%20mau%20tanya%20tentang%20EVA" target="_blank">
+    <a href="https://wa.me/62895631999752?text=Saya%20mau%20tanya%20tentang%20fitur%20EVA" target="_blank">
         <div class="fixed-bottom-message px-4 py-3 align-items-center text-white">
             <img src="asset/img/main/Vector.png" width="20px" />
             Message Us
