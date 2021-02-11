@@ -12,7 +12,7 @@
     <meta property="og:site" content="https://whatsappbot.id/"> <!-- website link -->
     <meta property="og:title" content="Eva Whatsapp Bot Creator"> <!-- title shown in the actual shared post -->
     <meta property="og:description" content="EVA merupakan Layanan Pembuatan Chatbot secara Instan di berbagai Platform Messaging. Tanpa harus memiliki Keahlian Programming, dan Pengelolaannya yang Mudah."> <!-- description shown in the actual shared post -->
-    <meta property="og:image" content=" "> <!-- image link, make sure it's jpg -->
+    <meta property="og:image" content="asset/img/main/eva logo.png">
     <meta property="og:url" content="https://whatsappbot.id/"> <!-- where do you want your post to link to -->
     <meta property="og:type" content="landing-page">
     <meta name="author" content="Elektronik Virtual Asisten">
@@ -536,115 +536,6 @@
             </div>
         </div>
 
-        <!-- <div id="fitur" class="basic-1 bg-diag-right-top">
-            <div style="margin-top:100px;"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col text-center">
-                        <h1 style=";">Fitur Paket WhatsApp Bot</h1>
-                        <p>
-                            Temukan perbedaan dari setiap paket individu dan pelajari lebih lanjut tentang produk kami
-                        </p>
-                    </div>
-                    <div class="w-100"></div>
-                    <div class="col">
-                        <table class="table table-responsive d-flex align-items-center justify-content-center">
-                            <tr>
-                                <th style="width: 40%"></th>
-                                <th class="border-lr">WhatsApp Pro</th>
-                                <th>WhatsApp Pro Plus</th>
-                                <th class="border-lr">Custom Bot</th>
-                            </tr>
-                            <tr>
-                                <th colspan="4">Harga</th>
-                            </tr>
-                            <tr>
-                                <td style="width: 40%" class="border-lr">Harga/Tahun</td>
-                                <td>Rp. 21.780.000</td>
-                                <td class="border-lr">Rp. 42.240.000</td>
-                                <td rowspan="10" class="text-center border-r border-b" style="vertical-align:middle!important">
-                                    <a href="https://wa.me/14243837788?text=Saya%20mau%20tanya%20tentang%20EVA" class="btn btn-orange" style="border-radius: 2em">Kontak Tim Kami</a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <th colspan="3">Fitur yang Didapat</th>
-                            </tr>
-                            <tr>
-                                <td class="border-lr">Kuota MAU Whatsapp</td>
-                                <td>1.000 MAU</td>
-                                <td class="border-lr">3.000 MAU</td>
-                            </tr>
-                            <tr>
-                                <td class="border-lr">Quota Chatbot Chat/Bln</td>
-                                <td>30.000 Chat/Bln</td>
-                                <td class="border-lr">60.000 Chat/Bln</td>
-                            </tr>
-                            <tr>
-                                <td class="border-lr">Admin / Operator</td>
-                                <td>1 User Adm</td>
-                                <td class="border-lr">2 User Admn</td>
-                            </tr>
-                            <tr>
-                                <td class="border-lr">Whatsapp Broadcast Tool</td>
-                                <td class="text-center">
-                                    Rp. 490/Push
-                                </td>
-                                <td class="border-lr text-center">
-                                    Rp. 490/Push
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="border-lr">Registrasi WA Verified</td>
-                                <td class="text-center">
-                                    <i class="fas fa-check"></i>
-                                </td>
-                                <td class="border-lr text-center">
-                                    <i class="fas fa-check"></i>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="border-lr">Ticket LiveChat</td>
-                                <td class="text-center">
-                                    <i class="fas fa-check"></i>
-                                </td>
-                                <td class="border-lr text-center">
-                                    <i class="fas fa-check"></i>
-                                </td>
-                            </tr>
-                            <tr class="border-b">
-                                <td class="border-lr">Dashboard Management</td>
-                                <td class="text-center">
-                                    <i class="fas fa-check"></i>
-                                </td>
-                                <td class="border-lr text-center">
-                                    <i class="fas fa-check"></i>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="border-lr">
-                                    Integrasi Chat Messenger :
-                                    <p>
-                                    WA, Telegram, Web Widget
-                                    </p>
-                                </td>
-                                <td class="text-center">
-                                    <i class="fas fa-check"></i>
-                                </td>
-                                <td class="border-lr text-center">
-                                    <i class="fas fa-check"></i>
-                                </td>
-                            </tr>
-                        </table>
-                        <p class="text-center">
-                            <b>* MAU</b> : Montly Active User (Jumlah Nomor Yang Chat Dengan ChatBot).
-                        </p>
-                        <p class="text-center">
-                            <b>* Chat</b> : Jumlah Trafik Chat in & out setiap percakapan.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div> -->
 
         <div class="basic-1" id="klien">
             <div class="p-md-4 p-sm-0">
@@ -766,121 +657,6 @@
             </div>
         </div>
 
-        <!-- <div class="basic-1">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 mt-5 mb-5 text-center">
-                        <p style="font: 900 45px 'Roboto'">
-                            <span style="color: #3C7C2A">Pengguna EVA.id</span> di seluruh indonesia
-                        </p>
-                    </div>
-                    <div class="col-12 mt-5 mb-5 text-center">
-                        <div class="slider-container">
-                            <div class="swiper-container image-slider swiper-container-horizontal">
-                                <div class="swiper-wrapper" style="transform: translate3d(-1596px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="5" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 11.png" alt="alternative">
-                                        </div>
-                                    </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="6" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 12.png" alt="alternative">
-                                        </div>
-                                    </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="7" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 13.png" alt="alternative">
-                                        </div>
-                                    </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="8" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 14.png" alt="alternative">
-                                        </div>
-                                    </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="9" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 15.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide" data-swiper-slide-index="0" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 4.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 5.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="2" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 6.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="3" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 7.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide" data-swiper-slide-index="4" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 8.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide" data-swiper-slide-index="5" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 11.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide" data-swiper-slide-index="6" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 12.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide" data-swiper-slide-index="7" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 13.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide" data-swiper-slide-index="8" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 14.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                                <div class="swiper-slide" data-swiper-slide-index="9" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 15.png" alt="alternative">
-                                        </div>
-                                    </div>
-                                                            <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 4.png" alt="alternative">
-                                        </div>
-                                    </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 5.png" alt="alternative">
-                                        </div>
-                                    </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="2" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 6.png" alt="alternative">
-                                        </div>
-                                    </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="3" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 7.png" alt="alternative">
-                                        </div>
-                                    </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="4" style="width: 198px; margin-right: 30px;">
-                                        <div class="image-container">
-                                            <img class="img-responsive" src="asset/img/main/image 8.png" alt="alternative">
-                                        </div>
-                                    </div></div>
-                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 mt-5 mb-5 text-center">
-                        <span style="color: #F16E17; ; font-weight:900">
-                            Pengguna Lainnya <i class="fas fa-chevron-right"></i>
-                        </span>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-
         <div class="basic-1" style="padding: 90px 0px!important;background: url('asset/img/main/bg_before_footer.png') no-repeat; background-size: cover; background-position: center center;">
             <div class="container">
                 <div class="row">
@@ -918,55 +694,14 @@
         <div class="footer" style="background-color: #273443">
             <div class="container text-white">
                 <div class="row">
-                    <!-- <div class="col-lg-6 col-md-6 col-sm-12"> -->
-                        <!-- <div class="row">
-                            <div class="col hidden-md-down">
-                                <img src="asset/images/Icon.png">
-                            </div>
-
-                            <div class="col hidden-md-up text-center">
-                                <img src="asset/images/Icon.png">
-                            </div>
-
-                            <div class="w-100 mt-2"></div>
-                            <div class="col hidden-md-down">
-                                PT. ELEKTRONIK VIRTUAL ASISTEN
-                            </div>
-
-                            <div class="col hidden-md-up text-center">
-                                PT. ELEKTRONIK VIRTUAL ASISTEN
-                            </div>
-                            <div class="w-100 mt-4"></div>
-                            <div class="col w-100">
-                                <div class="row text-center">
-                                    <div class="col text-left">
-                                        <b>Bandung (Head Office)</b>
-                                        <br>
-                                        Jl. Sanggar Kencana XXV No.11A-23,
-                                        <br>
-                                        Kawaluyaan, Bandung, Jawa Barat.
-                                    </div>
-                                    <div class="col text-left">
-                                        <b>Jakarta (Sales Office)</b>
-                                        <br>
-                                        ITS Tower Lt. 6
-                                        <br>
-                                        Jalan Raya Pasar Mingu KM 18
-                                        <br>
-                                        Jakarta Selatan, DKI Jakarta
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                    <!-- </div> -->
                     <div class="col-12">
                         <div class="row">
                             <div class="col" style="min-height: 13em">
                                 <b class="head-footer">Produk</b>
                                 <div>
                                     <ul class="list-footer">
-                                        <li><a class="page-scroll nav-link" href="#harga" style="text-white">Harga</a></li>
-                                        <li><a class="page-scroll nav-link" href="#fitur" style="text-white">Fitur</a></li>
+                                        <li><a class="page-scroll nav-link text-white" href="#harga">Harga</a></li>
+                                        <li><a class="page-scroll nav-link text-white" href="#fitur">Fitur</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -974,7 +709,8 @@
                                     <b>Klien</b>
                                     <div>
                                         <ul class="list-footer">
-                                            <li><a class="page-scroll nav-link" href="#klien" style="text-white">Klien Kami</a></li>
+                                            <li>
+                                            <a class="page-scroll nav-link text-white" href="#klien">Klien Kami</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -984,7 +720,6 @@
                                         <ul class="list-footer">
                                             <li><a class="page-scroll nav-link" href="#">Team Kami</a></li>
                                             <li><a class="page-scroll nav-link" href="#">Kantor Eva</a></li>
-                                            <!-- <li>Kontak</li> -->
                                         </ul>
                                     </div>
                                 </div>
@@ -997,15 +732,6 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <!-- <div class="col" style="min-height: 13em">
-                                    <b>Legal</b>
-                                    <div>
-                                        <ul class="list-footer">
-                                            <li>Term &amp; Condition</li>
-                                            <li>Privacy Policy</li>
-                                        </ul>
-                                    </div>
-                                </div> -->
                             <div class="w-100"></div>
                             <div class="col w-100 text-right hidden-md-down" style="padding-right:5em">
                                 <a href="https://google.com" target="_blank"><img src="asset/img/main/twitter.png" style="margin:15px;filter:invert(100%)"></a>
@@ -1046,5 +772,4 @@
     <script src="asset/js/swiper.min.js"></script>
     <script src="asset/js/jquery.magnific-popup.js"></script>
     <script src="asset/js/scripts.js"></script>
-    <!-- <script src="asset/js/scripts.js"></script> -->
 </body></html>
